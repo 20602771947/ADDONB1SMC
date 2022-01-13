@@ -1,0 +1,1 @@
+UPDATE FIELD	SYP_ESTADO	Estado	10000558 - No se puede reducir la longitud del campo

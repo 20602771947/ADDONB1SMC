@@ -1,0 +1,7 @@
+﻿Code	Name	U_SYP_DIMENSION	U_SYP_REGCOSTO
+Code	Name	U_SYP_DIMENSION	U_SYP_REGCOSTO
+1	1	Dimensión 1	N
+2	2	Dimensión 2	N
+3	3	Dimensión 3	N
+4	4	Dimensión 4	N
+5	5	Dimensión 5	N

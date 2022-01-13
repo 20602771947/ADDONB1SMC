@@ -1,0 +1,7 @@
+﻿Code	Name
+Code	Name
+C	Abono en Cuenta Corriente
+A	Abono en Cuenta de Ahorros
+M	Abono en Cuenta Maestra
+D	Cuenta para Detracción
+G	Pago con Cheque de Gerencia

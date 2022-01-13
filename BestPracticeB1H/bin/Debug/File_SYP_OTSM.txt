@@ -1,0 +1,4 @@
+﻿Code	Name	U_Cuenta
+Code	Name	U_Cuenta
+000	Saldos Iniciales - Inventarios	
+*	Valor Inválido	

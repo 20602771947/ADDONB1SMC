@@ -1,0 +1,8 @@
+﻿Code	Name
+Code	Name
+AC_03	Aceptado
+RC_05	Rechazado
+PE_02	Pendiente Envío
+AN04	Anulado
+ED_06 	Enviado a Declarar
+PE_09	NO DEFINIDO

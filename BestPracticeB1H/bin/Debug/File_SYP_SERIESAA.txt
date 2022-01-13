@@ -1,0 +1,66 @@
+﻿modulo	Documento	Descr	DocType	DocSubType	Prefix	year	month	indicador	nroini	nrosiguiente	nrofinal	periodo	primer	siguiente	ultimo	anulacion
+0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16
+venta	Acuerdo global de ventas	Acuerdo global de ventas	1250000025	C	AGV	2015	0	0	00001	00001	9999999		AA00000001	AA00000001	AA09999999	N
+venta	Ofertas de ventas	Ofertas de ventas	23		OFC	2015	0	0	00001	00001	9999999		AA00000001	AA00000001	AA09999999	N
+venta	Pedidos de cliente	Orden de venta	17		OVC	2015	0	0	00001	00001	9999999		AA00000001	AA00000001	AA09999999	N
+venta	Entregas	Entregas (conformidad de Servicio)	15		ENC	2015	0	0	00001	00001	9999999		AA00000001	AA00000001	AA09999999	N
+venta	Devoluciones	Devoluciones	16		DVC	2015	0	0	00001	00001	9999999		AA00000001	AA00000001	AA09999999	N
+venta	Anticipo de clientes	Anticipo de clientes	203		FAC	2015	0	0	00001	00001	9999999		AA00000001	AA00000001	AA09999999	N
+venta	Facturas clientes	Facturas clientes	13		FVC	2015	0	0	00001	00001	9999999		AA00000001	AA00000001	AA09999999	N
+venta	Detraccion clientes	Detracción clientes	13		DTV	2015	3	0	00001	00001	9999999		AA30000001	AA30000001	AA39999999	N
+venta	Factura exenta	Factura exenta clientes	13	IE	FVC	2015	0	0	00001	00001	9999999		AA00000001	AA00000001	AA09999999	N
+venta	Nota de débito de clientes	Nota de débito de clientes	13	DN	NDC	2015	0	0	00001	00001	9999999		AA00000001	AA00000001	AA09999999	N
+venta	Boleta	Boleta	13	IB	BVC	2015	0	0	00001	00001	9999999		AA00000001	AA00000001	AA09999999	N
+venta	Boleta exenta	Boleta exenta	13	EB	BVC	2015	0	0	00001	00001	9999999		AA00000001	AA00000001	AA09999999	N
+venta	Factura exportación	Factura exportación	13	IX	FVC	2015	0	0	00001	00001	9999999		AA00000001	AA00000001	AA09999999	N
+venta	Notas de crédito clientes	Notas de crédito clientes	14		NCC	2015	0	0	00001	00001	9999999		AA00000001	AA00000001	AA09999999	N
+compra	Acuerdo global de compras	Acuerdo global de compras	1250000025	S	AGC	2015	0	0	00001	00001	9999999		AA00000001	AA00000001	AA09999999	N
+compra	Solicitud de compra	Solicitud de compra (Requerimiento)	1470000113		RQP	2015	0	0	00001	00001	9999999		AA00000001	AA00000001	AA09999999	N
+compra	Oferta de compra	Oferta de Compra (Cotizacion)	540000006		OFP	2015	0	0	00001	00001	9999999		AA00000001	AA00000001	AA09999999	N
+compra	Pedidos	Orden de compra	22		OCP	2015	1	0	00001	00001	9999999		AA10000001	AA10000001	AA19999999	N
+compra	Pedidos	Orden de compra de importación	22		OCI	2015	2	0	00001	00001	9999999		AA20000001	AA20000001	AA29999999	N
+compra	Pedido de entrada de mercancías	Entrada de mercancías	20		ENP	2015	1	0	00001	00001	9999999		AA10000001	AA10000001	AA19999999	N
+compra	Pedido de entrada de mercancías	Entrada de mercancías Importaciones	20		ENI	2015	2	0	00001	00001	9999999		AA20000001	AA20000001	AA29999999	N
+compra	Devolución de mercancías	Devolución de mercancías	21		DVP	2015	0	0	00001	00001	9999999		AA00000001	AA00000001	AA09999999	N
+compra	Anticipo de proveedores	Anticipo de proveedores	204		FAP	2015	0	0	00001	00001	9999999		AA00000001	AA00000001	AA09999999	N
+compra	Fact.proveedores	Factura de proveedores	18		FCP	2015	1	0	00001	00001	9999999		AA10000001	AA10000001	AA19999999	N
+compra	Fact.proveedores	Factura de proveedores Importación	18		FCI	2015	2	0	00001	00001	9999999		AA20000001	AA20000001	AA29999999	N
+compra	Fact.proveedores	Detracción	18		DET	2015	3	0	00001	00001	9999999		AA30000001	AA30000001	AA39999999	N
+compra	Nota de débito de proveedores	Nota de débito de proveedores	18	DM	NDP	2015	0	0	00001	00001	9999999		AA00000001	AA00000001	AA09999999	N
+compra	Notas de crédito acreedores	Nota de crédito proveedores	19		NCP	2015	0	0	00001	00001	9999999		AA00000001	AA00000001	AA09999999	N
+compra	Precio de entrega	Precio de Entrega (Importaciones)	69		IMP	2015	0	0	00001	00001	9999999		AA00000001	AA00000001	AA09999999	N
+pago	Pagos recibidos	Pagos recibidos	24		PGR	2015	0	0	00001	00001	9999999		AA00000001	AA00000001	AA99999999	N
+pago	Depósitos	Depósitos	25		DEP	2015	0	0	00001	00001	9999999		AA00000001	AA00000001	AA99999999	N
+pago	Pagos efectuados	Pagos efectuados	46		PGE	2015	0	0	00001	00001	9999999		AA00000001	AA00000001	AA99999999	N
+inventario	Entrada de mercancías	Entrada de mercancías	59		EMI	2015	0	0	00001	00001	9999999		AA00000001	AA00000001	AA99999999	N
+inventario	Salida de mercancías	Salida de mercancías	60		SMI	2015	0	0	00001	00001	9999999		AA00000001	AA00000001	AA99999999	N
+inventario	Solicitud de traslado	Solicitud de traslado	1250000001		SLT	2015	0	0	00001	00001	9999999		AA00000001	AA00000001	AA99999999	N
+inventario	Traslados	Transferencia de stock	67		TRA	2015	0	0	00001	00001	9999999		AA00000001	AA00000001	AA99999999	N
+inventario	Revalorización de inventario	Revalorización de inventario	162		RVI	2015	0	0	00001	00001	9999999		AA00000001	AA00000001	AA99999999	N
+inventario	Saldos iniciales de stocks	Saldos iniciales de stocks	310000001		SIN	2015	0	0	00001	00001	9999999		AA00000001	AA00000001	AA99999999	N
+inventario	Recuento de inventario	Recuento de inventario	1470000065		RCI	2015	0	0	00001	00001	9999999		AA00000001	AA00000001	AA99999999	N
+inventario	Contabilización de stocks	Contabilización de stocks	10000071		CST	2015	0	0	00001	00001	9999999		AA00000001	AA00000001	AA99999999	N
+otros	Llamada de servicio	Llamada de servicio	191		SER	2015	0	0	00001	00001	9999999		AA00000001	AA00000001	AA99999999	N
+otros	Órdenes fabricación	Órdenes fabricación	202		ORF	2015	0	0	00001	00001	9999999		AA00000001	AA00000001	AA99999999	N
+otros	Grupo de ofertas de compra	Grupo de ofertas de compra	540000024		GOC	2015	0	0	00001	00001	9999999		AA00000001	AA00000001	AA99999999	N
+otros	Registros en el diario	Registros en el diario	30		ASI	2015	0	0	00001	00001	9999999		AA00000001	AA00000001	AA99999999	N
+otros	Entregas	Anulación ventas	15		ADV	2015	9	0	00001	00001	9999999		AA90000001	AA90000001	AA99999999	Y
+otros	Devoluciones	Anulación ventas	16		ADV	2015	9	0	00001	00001	9999999		AA90000001	AA90000001	AA99999999	Y
+otros	Facturas clientes	Anulación ventas	13		ADV	2015	9	0	00001	00001	9999999		AA90000001	AA90000001	AA99999999	Y
+otros	Factura exenta	Anulación ventas	13	IE	ADV	2015	9	0	00001	00001	9999999		AA90000001	AA90000001	AA99999999	Y
+otros	Nota de débito de clientes	Anulación ventas	13	DN	ADV	2015	9	0	00001	00001	9999999		AA90000001	AA90000001	AA99999999	Y
+otros	Boleta	Anulación ventas	13	IB	ADV	2015	9	0	00001	00001	9999999		AA90000001	AA90000001	AA99999999	Y
+otros	Boleta exenta	Anulación ventas	13	EB	ADV	2015	9	0	00001	00001	9999999		AA90000001	AA90000001	AA99999999	Y
+otros	Factura exportación	Anulación ventas	13	IX	ADV	2015	9	0	00001	00001	9999999		AA90000001	AA90000001	AA99999999	Y
+otros	Notas de crédito clientes	Anulación ventas	14		ADV	2015	9	0	00001	00001	9999999		AA90000001	AA90000001	AA99999999	Y
+otros	Pedido de entrada de mercancías	Anulación compras	20		ADC	2015	9	0	00001	00001	9999999		AA90000001	AA90000001	AA99999999	Y
+otros	Devolución de mercancías	Anulación compras	21		ADC	2015	9	0	00001	00001	9999999		AA90000001	AA90000001	AA99999999	Y
+otros	Fact.proveedores	Anulación compras	18		ADC	2015	9	0	00001	00001	9999999		AA90000001	AA90000001	AA99999999	Y
+otros	Nota de débito de proveedores	Anulación compras	18	DM	ADC	2015	9	0	00001	00001	9999999		AA90000001	AA90000001	AA99999999	Y
+otros	Notas de crédito acreedores	Anulación compras	19		ADC	2015	9	0	00001	00001	9999999		AA90000001	AA90000001	AA99999999	Y
+AF	Capitalización Activos Fijos	Capitalización Activos Fijos	1470000049		CAP	2015	0	0	00001	00001	9999999		AA00000001	AA00000001	AA09999999	N
+AF	Amortización Activos Fijos	Amortización Activos Fijos	1470000075		AMO	2015	0	0	00001	00001	9999999		AA00000001	AA00000001	AA09999999	N
+AF	Nota de Crédito de Capitalización de Activos Fijos	Nota de Crédito de Capitalización de Activos Fijos	1470000060		NCF	2015	0	0	00001	00001	9999999		AA00000001	AA00000001	AA09999999	N
+AF	Baja de Activos Fijos	Baja de Activos Fijos	1470000094		BAJ	2015	0	0	00001	00001	9999999		AA00000001	AA00000001	AA09999999	N
+AF	Traspaso de Activos Fijos	Traspaso de Activos Fijos	1470000090		TRF	2015	0	0	00001	00001	9999999		AA00000001	AA00000001	AA09999999	N
+AF	Revalorización de Activos Fijos	Revalorización de Activos Fijos	1470000085		RVF	2015	0	0	00001	00001	9999999		AA00000001	AA00000001	AA09999999	N

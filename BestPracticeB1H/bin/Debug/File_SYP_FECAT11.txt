@@ -1,0 +1,7 @@
+﻿Code	Name	SYP_DESCL
+Code	Name	SYP_DESCL
+01	Gravado	Gravado
+02	Exonerado	Exonerado
+03	Inafecto	Inafecto
+04	Exportación	Exportación
+05	Gratuitas	Gratuitas

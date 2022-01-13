@@ -1,0 +1,69 @@
+﻿Code	Name	U_SYP_TDTD	U_SYP_TDDD	U_SYP_DIN	U_SYP_REGVEN	U_SYP_REGCOM	U_SYP_DAOT	U_SYP_CREF	U_SYP_REQDO	U_SYP_SERVPUBL	U_SYP_SOLIGV	U_SYP_SINIGV	U_SYP_SIZESER	U_SYP_SIZECOR	BREAK	U_SYP_VFAC	U_SYP_VENT	U_SYP_VNCR	U_SYP_VNDB	U_SYP_VANT	U_SYP_VFRE	U_SYP_VDEV	U_SYP_CFAC	U_SYP_CENT	U_SYP_CNCR	U_SYP_CNDB	U_SYP_CANT	U_SYP_CFRE	U_SYP_CDEV	U_SYP_IING	U_SYP_ISAL	U_SYP_ITRA	U_SYP_VBOL	U_SYP_VBEX	U_SYP_VFEX	U_SYP_VFEP	U_SYP_VFPA	SYP_CPEN
+Code	Name	U_SYP_TDTD	U_SYP_TDDD	U_SYP_DIN	U_SYP_REGVEN	U_SYP_REGCOM	U_SYP_DAOT	U_SYP_CREF	U_SYP_REQDO	U_SYP_SERVPUBL	U_SYP_SOLIGV	U_SYP_SINIGV	U_SYP_SIZESER	U_SYP_SIZECOR	BREAK	U_SYP_VFAC	U_SYP_VENT	U_SYP_VNCR	U_SYP_VNDB	U_SYP_VANT	U_SYP_VFRE	U_SYP_VDEV	U_SYP_CFAC	U_SYP_CENT	U_SYP_CNCR	U_SYP_CNDB	U_SYP_CANT	U_SYP_CFRE	U_SYP_CDEV	U_SYP_IING	U_SYP_ISAL	U_SYP_ITRA	U_SYP_VBOL	U_SYP_VBEX	U_SYP_VFEX	U_SYP_VFEP	U_SYP_VFPA	SYP_CPEN
+00		00	Otros (especificar)	N	N	N	NI	N	N	N	N	N	4	20	BREAK	N	N	N	N	N	N	N	Y	Y	N	N	Y	Y	N	N	Y	Y	N	N	N	N	N	N
+01		01	Factura	N	Y	Y	NI	Y	N	N	N	N	4	8	BREAK	Y	N	N	N	Y	Y	N	Y	Y	N	N	Y	Y	N	N	N	N	N	N	Y	Y	Y	N
+02		02	Recibo por honorarios	N	N	N	NI	N	N	N	N	N	4	7	BREAK	N	N	N	N	N	N	N	Y	N	N	N	Y	Y	N	N	N	N	N	N	N	N	N	N
+03		03	Boleta de Venta	N	Y	Y	NI	N	N	N	N	N	4	8	BREAK	N	N	N	N	N	N	N	Y	N	N	N	Y	Y	N	N	N	N	Y	Y	N	N	N	N
+04		04	Liquidacion de compra	N	N	Y	NI	N	N	Y	N	N	4	8	BREAK	N	N	N	N	N	N	N	Y	Y	N	N	Y	Y	N	N	N	N	N	N	N	N	N	N
+05		05	Boleto de Companias de Aviacion	N	N	Y	NI	N	N	N	N	N	1	11	BREAK	N	N	N	N	N	N	N	Y	N	N	N	Y	Y	N	N	N	N	N	N	N	N	N	N
+06		06	Carta de porte aereo - Trans.carga	N	N	N	NI	N	N	N	N	N	4	8	BREAK	N	N	N	N	N	N	N	Y	N	N	N	Y	Y	N	N	N	N	N	N	N	N	N	N
+07		07	Nota de credito	N	Y	Y	NI	Y	Y	N	N	N	4	8	BREAK	N	N	Y	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N
+08		08	Nota de debito	N	Y	Y	NI	N	Y	N	N	N	4	8	BREAK	N	N	N	Y	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N
+09		09	Guia de remision - Remitente	N	N	N	NI	Y	N	N	N	N	4	8	BREAK	N	Y	N	N	N	N	Y	N	Y	N	N	N	N	Y	N	Y	Y	N	N	N	N	N	N
+10		10	Recibo por Arrendamiento	N	N	Y	NI	N	N	N	N	N	4	20	BREAK	N	N	N	N	N	N	N	Y	N	N	N	Y	Y	N	N	N	N	N	N	N	N	N	N
+11		11	Poliza de Bolsa de Valores y Productos autorizados	N	N	Y	NI	N	N	N	N	N	20	15	BREAK	N	N	N	N	N	N	N	Y	N	N	N	Y	Y	N	N	N	N	N	N	N	N	N	N
+12		12	Ticket o cinta de Maq. registradora	N	Y	Y	NI	N	N	N	N	N	20	20	BREAK	Y	N	N	N	Y	Y	N	Y	N	N	N	Y	Y	N	N	N	N	Y	Y	Y	Y	Y	N
+13		13	Dcto. emitido por banco, I. Financiera	N	N	Y	NI	N	N	N	N	N	20	20	BREAK	N	N	N	N	N	N	N	Y	N	N	N	Y	Y	N	N	N	N	N	N	N	N	N	N
+14		14	Recibos por servicios publicos	N	N	Y	NI	N	N	Y	N	N	20	20	BREAK	N	N	N	N	N	N	N	Y	N	N	N	Y	Y	N	N	N	N	N	N	N	N	N	N
+15		15	Boleto empresa de transporte publico	N	N	Y	NI	N	N	N	N	N	20	20	BREAK	N	N	N	N	N	N	N	Y	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N
+16		16	Boleto de viaje Trans.Pub.Interprovinc	N	N	Y	NI	N	N	N	N	N	20	20	BREAK	N	N	N	N	N	N	N	Y	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N
+17		17	Doc. de Iglesia Catolica arrendamiento inmuebles	N	N	Y	NI	N	N	N	N	N	20	20	BREAK	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+18		18	Dctos. emitidos por AFP	N	N	Y	NI	N	N	N	N	N	20	20	BREAK	N	N	N	N	N	N	N	Y	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N
+19		19	Boleto o entrada atracciones y espc. publicos	N	N	Y	NI	N	N	N	N	N	20	20	BREAK	N	N	N	N	N	N	N	Y	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N
+20		20	Comprobante de Retencion	N	N	N	NI	N	N	N	N	N	4	8	BREAK	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+21		21	Conocimiento de embarque carga maritima	N	N	N	NI	N	N	N	N	N	20	20	BREAK	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+22		22	Comprobante operaciones no habituales	N	Y	Y	NI	N	N	N	N	N	4	20	BREAK	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+23		23	Poliza Adjudicacion por subasta por terceros	N	N	Y	NI	N	N	N	N	N	4	7	BREAK	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+24		24	Certificado Regalias de PERUPETRO S.A.	N	N	N	NI	N	N	N	N	N	20	20	BREAK	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+25		25	Doc. Atribucion LG IGV Selectivo Art. 19 RS 022-98	N	N	N	NI	N	N	N	N	N	4	7	BREAK	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+26		26	Recibo Pago Uso Agua Superficial Agrarios	N	N	Y	NI	N	N	N	N	N	20	20	BREAK	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+27		27	Seguro Complementario de Trabajo de Riesgo	N	N	N	NI	N	N	N	N	N	20	20	BREAK	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+28		28	Tarifa unica de uso de aeropuerto	N	N	Y	NI	N	N	N	N	N	20	20	BREAK	N	N	N	N	N	N	N	Y	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N
+29		29	Doc. emitidos COFOPRI oferta terrenos	N	N	N	NI	N	N	N	N	N	20	20	BREAK	N	N	N	N	N	N	N	Y	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N
+30		30	Doc. emitidos por adquiriente tarj. crdito debito	N	N	N	NI	N	N	N	N	N	20	20	BREAK	N	N	N	N	N	N	N	Y	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N
+31		31	Guia Remision - Transportista	N	N	N	NI	N	N	N	N	N	4	8	BREAK	N	N	N	N	N	N	N	N	Y	N	N	N	N	Y	N	Y	Y	N	N	N	N	N	N
+32		32	Doc emitidos por recaudadoras Ley 27133 Gas natura	N	N	N	NI	N	N	N	N	N	20	20	BREAK	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+34		34	Documento operador	N	N	N	NI	N	N	N	N	N	4	7	BREAK	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+35		35	Documento participe	N	N	N	NI	N	N	N	N	N	4	7	BREAK	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+36		36	Recibo de distribucion de Gas natural	N	N	N	NI	N	N	N	N	N	4	8	BREAK	N	N	N	N	N	N	N	Y	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N
+37		37	Doc. emitidos revisiones tecnicas vehiculares	N	N	N	NI	N	N	N	N	N	20	20	BREAK	N	N	N	N	N	N	N	Y	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N
+40		40	Certificado de Percepcion	N	N	N	NI	N	N	N	N	N	20	20	BREAK	N	N	N	N	N	N	N	Y	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N
+49		49	Constancia de Deposito - IVAP (Ley 28211)	N	N	N	NI	N	N	N	N	N	4	8	BREAK	N	N	N	N	N	N	N	Y	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N
+50		50	Declaracion unica de Aduanas	N	N	Y	NI	N	N	Y	Y	N	3	6	BREAK	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+52		52	Despacho simplificado Importacion simplificada	N	N	N	NI	N	N	N	N	N	3	6	BREAK	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+53		53	Declaracion de mensajeria o courier	N	N	N	NI	N	N	N	N	N	3	6	BREAK	N	N	N	N	N	N	N	Y	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N
+54		54	Liquidacion de Cobranza	N	N	N	NI	N	N	N	N	N	3	20	BREAK	N	N	N	N	N	N	N	Y	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N
+87		87	Nota de Credito Especial	N	N	N	NI	N	Y	N	N	N	20	20	BREAK	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N
+88		88	Nota de Debito Especial	N	N	N	NI	N	Y	N	N	N	20	20	BREAK	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N
+91		91	Comprobante de No Domiciliado	N	Y	Y	NI	N	N	N	N	N	20	20	BREAK	N	N	N	N	N	N	N	Y	Y	N	N	Y	Y	N	N	N	N	N	N	N	N	N	N
+96		96	Exceso de credito fiscal por retiro de bienes	N	N	N	NI	N	N	N	N	N	20	20	BREAK	N	N	N	N	N	N	N	Y	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N
+97		97	Nota de Credito - No Domiciliado	N	Y	Y	NI	N	Y	N	N	N	20	20	BREAK	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N
+98		98	Nota de Debito - No Domiciliado	N	Y	Y	NI	N	Y	N	N	N	20	20	BREAK	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N
+99		99	Otros -Consolidado de Boletas de Venta	N	Y	Y	NI	N	N	N	N	N	20	20	BREAK	Y	N	N	N	Y	Y	N	N	N	N	N	N	N	N	N	N	N	Y	Y	Y	Y	Y	N
+AC		AC	Anulacion Documentos Compras	Y	N	N	NI	N	N	N	N	N	99	99	BREAK	N	N	N	N	N	N	N	Y	N	Y	Y	Y	Y	Y	N	N	N	N	N	N	N	N	N
+AV		AV	Anulacion Documentos Ventas	Y	N	N	NI	N	N	N	N	N	99	99	BREAK	Y	Y	Y	Y	Y	Y	N	N	N	N	N	N	N	N	N	N	N	Y	Y	Y	Y	Y	N
+AL		AL	Avales	N	N	N	NI	N	N	N	N	N	99	99	BREAK	N	N	N	N	N	N	N	Y	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N
+CD		CD	Cheque Devuelto	N	N	N	NI	N	N	N	N	N	99	99	BREAK	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+CS		CS	Conformidad de Servicios	N	N	N	NI	N	N	N	N	N	99	99	BREAK	N	N	N	N	N	N	N	Y	Y	N	N	Y	N	N	N	N	N	N	N	N	N	N	N
+DR		DR	Dieta de Directorio	N	N	N	NI	N	N	N	N	N	99	99	BREAK	N	N	N	N	N	N	N	Y	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N
+LD		LD	Lote Detracción	N	N	N	NI	N	N	N	N	N	99	4	BREAK	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+LV		LV	Lote Detracción Venta	N	N	N	NI	N	N	N	N	N	99	4	BREAK	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+DT		DT	Detraccion	N	N	N	NI	N	N	N	N	N	99	99	BREAK	N	N	N	N	N	N	N	Y	N	Y	Y	Y	N	N	N	N	N	N	N	N	N	N	N
+LT		LT	Letra	N	N	N	NI	N	N	N	N	N	99	99	BREAK	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+PE		PE	Percepciones	N	N	N	NI	N	N	N	N	N	99	99	BREAK	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+PI		PI	Percepcion Interna	N	N	N	NI	N	N	N	N	N	99	99	BREAK	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+PIN		PI	Percepcion Interna - Notas de Credito	N	N	N	NI	N	N	N	N	N	99	99	BREAK	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N
+MV		MV	Movilidades	N	N	N	NI	N	N	N	N	N	99	99	BREAK	N	N	N	N	N	N	N	Y	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N
+CC		CC	Doc. Interno Caja Chica	N	N	N	NI	N	N	N	N	N	99	5	BREAK	N	N	N	N	N	N	N	Y	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N
+ER		ER	Doc. Interno Entrega a Rendir	N	N	N	NI	N	N	N	N	N	99	5	BREAK	N	N	N	N	N	N	N	Y	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N
+CI		CI	Carpeta de Importación	N	N	N	NI	N	N	N	N	N	99	6	BREAK	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y

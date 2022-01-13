@@ -1,0 +1,75 @@
+﻿Code	Name	U_SYP_CONCEPTO	U_SYP_CUENTA	U_SYP_ORIGEN
+Code	Name	U_SYP_CONCEPTO	U_SYP_CUENTA	U_SYP_ORIGEN
+0001	63-Serv. Transporte de Carga	63-Serv. Transporte de Carga	63111001	COMPRAS
+0002	63-Serv. Transporte de Pasajeros	63-Serv. Transporte de Pasajeros	63112001	COMPRAS
+0003	63-Correos	63-Correos	63121001	COMPRAS
+0004	63-Gastos de Alojamiento	63-Gastos de Alojamiento	63131001	COMPRAS
+0005	63-Gastos de Alimentacion	63-Gastos de Alimentacion	63141001	COMPRAS
+0006	63-Otros Gastos de Viaje	63-Otros Gastos de Viaje	63151001	COMPRAS
+0007	63-Asesoria Administrativa	63-Asesoria Administrativa	63211001	COMPRAS
+0008	63-Asesoria Legal y tributaria 	63-Asesoria Legal y tributaria 	63221001	COMPRAS
+0009	63-Asesoria  Auditoria y contable 	63-Asesoria  Auditoria y contable 	63231001	COMPRAS
+0010	63-Asesoria  Mercadotecnia 	63-Asesoria  Mercadotecnia 	63241001	COMPRAS
+0011	63-Asesoria  Medioambiental 	63-Asesoria  Medioambiental 	63251001	COMPRAS
+0012	63-Asesoria  Investigacion y desarrollo 	63-Asesoria  Investigacion y desarrollo 	63261001	COMPRAS
+0013	63-Asesoria  Produccion 	63-Asesoria  Produccion 	63271001	COMPRAS
+0014	63-Otras Asesorias	63-Otras Asesorias	63291001	COMPRAS
+0015	63-Produccion encargada a terceros 	63-Produccion encargada a terceros 	63311001	COMPRAS
+0016	63-Mant.  Inversion inmobiliaria 	63-Mant.  Inversion inmobiliaria 	63411001	COMPRAS
+0017	63-Mant. Activos adquiridos en arrendamiento financiero 	63-Mant. Activos adquiridos en arrendamiento financiero 	63421001	COMPRAS
+0018	63-Mant. Inmuebles, maquinaria y equipo 	63-Mant. Inmuebles, maquinaria y equipo 	63431001	COMPRAS
+0019	63-Mant. Intangibles	63-Mant. Intangibles	63441001	COMPRAS
+0020	63-Mant. Activos biologicos 	63-Mant. Activos biologicos 	63451001	COMPRAS
+0021	63-Alquiler de Terrenos 	63-Alquiler de Terrenos 	63511001	COMPRAS
+0022	63-Alquiler de Edificaciones 	63-Alquiler de Edificaciones 	63521001	COMPRAS
+0023	63-Alquiler de  Maquinarias y equipos de explotacion	63-Alquiler de  Maquinarias y equipos de explotacion	63531001	COMPRAS
+0024	63-Alquiler de Equipo de transporte 	63-Alquiler de Equipo de transporte 	63541001	COMPRAS
+0025	63-Alquiler de Equipos diversos 	63-Alquiler de Equipos diversos 	63561001	COMPRAS
+0026	63-Serv. Publicos -Energia electrica	63-Serv. Publicos -Energia electrica	63611001	COMPRAS
+0027	63-Serv. Publicos - Gas	63-Serv. Publicos - Gas	63621001	COMPRAS
+0028	63-Serv. Publicos - Agua 	63-Serv. Publicos - Agua 	63631001	COMPRAS
+0029	63-Serv. Publicos - Telefono	63-Serv. Publicos - Telefono	63641001	COMPRAS
+0030	63-Serv. Publicos - Internet 	63-Serv. Publicos - Internet 	63651001	COMPRAS
+0031	63-Serv. Publicos - Radio	63-Serv. Publicos - Radio	63661001	COMPRAS
+0032	63-Serv. Publicos - Cable 	63-Serv. Publicos - Cable 	63671001	COMPRAS
+0033	63-Publicidad 	63-Publicidad 	63711001	COMPRAS
+0034	63-Publicaciones 	63-Publicaciones 	63721001	COMPRAS
+0035	63-Relaciones publicas 	63-Relaciones publicas 	63731001	COMPRAS
+0036	63-Servicios de contratistas 	63-Servicios de contratistas 	63811001	COMPRAS
+0037	63-Gastos bancarios 	63-Gastos bancarios 	63911001	COMPRAS
+0038	63-Gastos de laboratorio 	63-Gastos de laboratorio 	63921001	COMPRAS
+0039	64- Impuesto general a las ventas 	64- Impuesto general a las ventas 	64111001	COMPRAS
+0040	64- Impuesto selectivo al consumo	64- Impuesto selectivo al consumo	64111002	COMPRAS
+0041	64-Impuesto a las transacciones financieras 	64-Impuesto a las transacciones financieras 	64121001	COMPRAS
+0042	64-Impuesto temporal a los activos netos 	64-Impuesto temporal a los activos netos 	64131001	COMPRAS
+0043	64- Impuesto a los juegos de casino y maquinas tragamonedas 	64- Impuesto a los juegos de casino y maquinas tragamonedas 	64141001	COMPRAS
+0044	64-Regalias mineras	64-Regalias mineras	64151001	COMPRAS
+0045	64- Canones 	64- Canones 	64161001	COMPRAS
+0046	64-Otros Gastos por Tributos Gob. Central	64-Otros Gastos por Tributos Gob. Central	64191001	COMPRAS
+0047	64-Impuestos al Gobierno regional 	64-Impuestos al Gobierno regional 	64211001	COMPRAS
+0048	64-Impuesto predial 	64-Impuesto predial 	64311001	COMPRAS
+0049	64-Arbitrios municipales y seguridad ciudadana 	64-Arbitrios municipales y seguridad ciudadana 	64321001	COMPRAS
+0050	64-Impuesto al patrimonio vehicular 	64-Impuesto al patrimonio vehicular 	64331001	COMPRAS
+0051	64-Licencia de funcionamiento 	64-Licencia de funcionamiento 	64341001	COMPRAS
+0052	64-Otros Impuestos Municipales	64-Otros Impuestos Municipales	64391001	COMPRAS
+0053	64-Contribucion al SENATI 	64-Contribucion al SENATI 	64411001	COMPRAS
+0054	64-Contribucion al SENCICO 	64-Contribucion al SENCICO 	64421001	COMPRAS
+0055	64-Otros Gastos por Tributos	64-Otros Gastos por Tributos	64431001	COMPRAS
+0056	65-Seguros	65-Seguros	65111001	COMPRAS
+0057	65-Regalias	65-Regalias	65211001	COMPRAS
+0058	65-Suscripciones	65-Suscripciones	65311001	COMPRAS
+0059	65-Licencias y derechos de vigencia 	65-Licencias y derechos de vigencia 	65411001	COMPRAS
+0060	65-Compra de Suministros	65-Compra de Suministros	65611001	COMPRAS
+0061	65-Gestion medioambiental 	65-Gestion medioambiental 	65811001	COMPRAS
+0062	65-Gastos por Donaciones	65-Gastos por Donaciones	65911001	COMPRAS
+0063	65-Sanciones Administrativas	65-Sanciones Administrativas	65921001	COMPRAS
+0064	65-Otros Gastos	65-Otros Gastos	65931001	COMPRAS
+0065	65-Gastos Reparables	65-Gastos Reparables	65931005	COMPRAS
+0066	65-Gastos sin sustento	65-Gastos sin sustento	65931006	COMPRAS
+0067	ERC-Serv. Transporte de Carga	ERC-Serv. Transporte de Carga	63111001	ERC
+0068	ERC-Serv. Transporte de Pasajeros	ERC-Serv. Transporte de Pasajeros	63112001	ERC
+0069	ERC-Correos	ERC-Correos	63121001	ERC
+0070	ERC-Gastos de Alojamiento	ERC-Gastos de Alojamiento	63131001	ERC
+0071	ERC-Gastos de Alimentacion	ERC-Gastos de Alimentacion	63141001	ERC
+0072	ERC-Otros Gastos de Viaje	ERC-Otros Gastos de Viaje	63151001	ERC
+0073	ERC-Compra de Suministros	ERC-Compra de Suministros	65611001	ERC

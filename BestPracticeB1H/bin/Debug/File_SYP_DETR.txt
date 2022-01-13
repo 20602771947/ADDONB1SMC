@@ -1,0 +1,33 @@
+﻿Code	Name	Type	Category	StartDate	Rate	Official	Account	Detrac
+Code	Name	Type	Category	StartDate	Rate	Official	Account	Detrac
+D002	Arroz Pilado - 3.85%	Vat	Invoice	01/01/2015	4.54	002	48911002	Y
+D004	Recursos hidrobiológicos - 4%	Vat	Invoice	01/01/2015	4.72	004	48911002	Y
+D005	Maíz amarillo duro - 4%	Vat	Invoice	01/01/2015	4.72	005	48911002	Y
+D008	Madera - 4%	Vat	Invoice	01/01/2015	4.72	008	48911002	Y
+D009	Arena y piedra. - 10%	Vat	Invoice	01/01/2015	11.8	009	48911002	Y
+D010	Residuos,subprodu,desechos,recortes y des.- 15%	Vat	Invoice	01/01/2015	17.7	010	48911002	Y
+D012	Intermediacion laboral y tercerización - 10%	Vat	Invoice	01/01/2015	11.8	012	48911002	Y
+D014	Carnes y despojos comestibles - 4%	Vat	Invoice	01/01/2015	4.72	013	48911002	Y
+D017	Harina, polvo y pellets de pescado - 4%	Vat	Invoice	01/01/2015	4.72	017	48911002	Y
+D019	Arrendamiento de bienes muebles - 10%	Vat	Invoice	01/01/2015	11.8	019	48911002	Y
+D020	Mantenimiento, reparación de bienes muebles - 10%	Vat	Invoice	01/01/2015	11.8	020	48911002	Y
+D021	Movimiento de carga - 10%	Vat	Invoice	01/01/2015	11.8	021	48911002	Y
+D022	Otros servicios empresariales - 10%	Vat	Invoice	01/01/2015	11.8	022	48911002	Y
+D024	Comisión mercantil - 10%	Vat	Invoice	01/01/2015	11.8	024	48911002	Y
+D025	Fabricación de bienes por encargo - 10%	Vat	Invoice	01/01/2015	11.8	025	48911002	Y
+D026	Servicio de transporte de personas - 10%	Vat	Invoice	01/01/2015	11.8	026	48911002	Y
+D027	Transporte de bienes por via terrestre - 4%	Vat	Invoice	01/01/2015	4.72	027	48911002	Y
+D028	Transporte público de pasajeros por vía terrestre	Vat	Invoice	01/01/2015	0	028	48911002	Y
+D030	Contratos de construcción - 4%	Vat	Invoice	01/01/2015	4.72	030	48911002	Y
+D031	Oro gravado con el IGV - 10%	Vat	Invoice	01/01/2015	11.8	031	48911002	Y
+D034	Minerales metálicos no auriferos - 10%	Vat	Invoice	01/01/2015	11.8	034	48911002	Y
+D035	Bienes exonerados de IGV - 1.5%	Vat	Invoice	01/01/2015	1.77	035	48911002	Y
+D036	Oro y minerales metálicos exonerados de IGV - 1.5%	Vat	Invoice	01/01/2015	1.77	036	48911002	Y
+D037	Demas servicios gravados con el IGV - 10%	Vat	Invoice	01/01/2015	11.8	037	48911002	Y
+D039	Minerales No Metálicos - 10%	Vat	Invoice	01/01/2015	11.8	039	48911002	Y
+D040	Bien inmueble gravado con IGV 	Vat	Invoice	01/01/2015	4.72	040	48911002	Y
+R4TA	Retención Honorarios Profesionales 4ta - 8%	Income	Invoice	01/01/2015	8	R4TA	40172001	N
+RIGV	Retención Parcial de IGV 3%	Vat	Payment	01/01/2015	3.54	RIGV	40114001	N
+RXIG	Retención mixta IGV con EXE 3%	Vat	Payment	01/01/2015	3	RXIG	40114001	N
+R4ND	Retención 4ta para No Domiciliados	Income	Invoice	01/01/2015	24	R4ND	40172001	N
+RVTA	Retención Parcial de IGV 3% Venta	Vat	Payment	01/01/2015	3.54	RVTA	16121001	N

@@ -1,0 +1,5 @@
+﻿Code	Name	SYP_DESCL
+Code	Name	SYP_DESCL
+01	Intereses por mora	Intereses por mora
+02	Aumento en el valor	Aumento en el valor
+03	Penalidades	Penalidades

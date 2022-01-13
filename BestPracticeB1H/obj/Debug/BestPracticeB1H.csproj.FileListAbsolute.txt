@@ -1,0 +1,670 @@
+C:\Users\camat\Desktop\ERP AddOn\BestPracticeB1H 20141215-JM\BestPracticeB1H 20141215\BestPracticeB1H\bin\Debug\ERPSypsoft.exe.config
+C:\Users\camat\Desktop\ERP AddOn\BestPracticeB1H 20141215-JM\BestPracticeB1H 20141215\BestPracticeB1H\bin\Debug\ERPSypsoft.exe
+C:\Users\camat\Desktop\ERP AddOn\BestPracticeB1H 20141215-JM\BestPracticeB1H 20141215\BestPracticeB1H\bin\Debug\ERPSypsoft.pdb
+C:\Users\camat\Desktop\ERP AddOn\BestPracticeB1H 20141215-JM\BestPracticeB1H 20141215\BestPracticeB1H\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\camat\Desktop\ERP AddOn\BestPracticeB1H 20141215-JM\BestPracticeB1H 20141215\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\camat\Desktop\ERP AddOn\BestPracticeB1H 20141215-JM\BestPracticeB1H 20141215\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\camat\Desktop\ERP AddOn\BestPracticeB1H 20141215-JM\BestPracticeB1H 20141215\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.ResolveComReference.cache
+C:\Users\camat\Desktop\ERP AddOn\BestPracticeB1H 20141215-JM\BestPracticeB1H 20141215\BestPracticeB1H\obj\Debug\BestPracticeB1H.Properties.Resources.resources
+C:\Users\camat\Desktop\ERP AddOn\BestPracticeB1H 20141215-JM\BestPracticeB1H 20141215\BestPracticeB1H\obj\Debug\SplashScreenSQL.SplashScreenSQL.resources
+C:\Users\camat\Desktop\ERP AddOn\BestPracticeB1H 20141215-JM\BestPracticeB1H 20141215\BestPracticeB1H\obj\Debug\SplashScreen.SplashScreen.resources
+C:\Users\camat\Desktop\ERP AddOn\BestPracticeB1H 20141215-JM\BestPracticeB1H 20141215\BestPracticeB1H\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\camat\Desktop\ERP AddOn\BestPracticeB1H 20141215-JM\BestPracticeB1H 20141215\BestPracticeB1H\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\camat\Desktop\ERP AddOn\BestPracticeB1H 20141215-JM\BestPracticeB1H 20141215\BestPracticeB1H\obj\Debug\ERPSypsoft.exe
+C:\Users\camat\Desktop\ERP AddOn\BestPracticeB1H 20141215-JM\BestPracticeB1H 20141215\BestPracticeB1H\obj\Debug\ERPSypsoft.pdb
+C:\Users\carlos\Desktop\ERP AddOn\BestPracticeB1H 20141215-JM\BestPracticeB1H 20141215\BestPracticeB1H\bin\Debug\ERPSypsoft.exe.config
+C:\Users\carlos\Desktop\ERP AddOn\BestPracticeB1H 20141215-JM\BestPracticeB1H 20141215\BestPracticeB1H\bin\Debug\ERPSypsoft.exe
+C:\Users\carlos\Desktop\ERP AddOn\BestPracticeB1H 20141215-JM\BestPracticeB1H 20141215\BestPracticeB1H\bin\Debug\ERPSypsoft.pdb
+C:\Users\carlos\Desktop\ERP AddOn\BestPracticeB1H 20141215-JM\BestPracticeB1H 20141215\BestPracticeB1H\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\carlos\Desktop\ERP AddOn\BestPracticeB1H 20141215-JM\BestPracticeB1H 20141215\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\carlos\Desktop\ERP AddOn\BestPracticeB1H 20141215-JM\BestPracticeB1H 20141215\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\carlos\Desktop\ERP AddOn\BestPracticeB1H 20141215-JM\BestPracticeB1H 20141215\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.ResolveComReference.cache
+C:\Users\carlos\Desktop\ERP AddOn\BestPracticeB1H 20141215-JM\BestPracticeB1H 20141215\BestPracticeB1H\obj\Debug\BestPracticeB1H.Properties.Resources.resources
+C:\Users\carlos\Desktop\ERP AddOn\BestPracticeB1H 20141215-JM\BestPracticeB1H 20141215\BestPracticeB1H\obj\Debug\SplashScreenSQL.SplashScreenSQL.resources
+C:\Users\carlos\Desktop\ERP AddOn\BestPracticeB1H 20141215-JM\BestPracticeB1H 20141215\BestPracticeB1H\obj\Debug\SplashScreen.SplashScreen.resources
+C:\Users\carlos\Desktop\ERP AddOn\BestPracticeB1H 20141215-JM\BestPracticeB1H 20141215\BestPracticeB1H\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\carlos\Desktop\ERP AddOn\BestPracticeB1H 20141215-JM\BestPracticeB1H 20141215\BestPracticeB1H\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\carlos\Desktop\ERP AddOn\BestPracticeB1H 20141215-JM\BestPracticeB1H 20141215\BestPracticeB1H\obj\Debug\ERPSypsoft.exe
+C:\Users\carlos\Desktop\ERP AddOn\BestPracticeB1H 20141215-JM\BestPracticeB1H 20141215\BestPracticeB1H\obj\Debug\ERPSypsoft.pdb
+C:\Users\camat\Desktop\ERP AddOn\BestPracticeB1H 20150109\BestPracticeB1H 20150109\BestPracticeB1H\bin\Debug\ERPSypsoft.exe.config
+C:\Users\camat\Desktop\ERP AddOn\BestPracticeB1H 20150109\BestPracticeB1H 20150109\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\camat\Desktop\ERP AddOn\BestPracticeB1H 20150109\BestPracticeB1H 20150109\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\camat\Desktop\ERP AddOn\BestPracticeB1H 20150109\BestPracticeB1H 20150109\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.ResolveComReference.cache
+C:\Users\camat\Desktop\ERP AddOn\BestPracticeB1H 20150109\BestPracticeB1H 20150109\BestPracticeB1H\obj\Debug\ERPSypsoft.exe
+C:\Users\camat\Desktop\ERP AddOn\BestPracticeB1H 20150109\BestPracticeB1H 20150109\BestPracticeB1H\obj\Debug\ERPSypsoft.pdb
+C:\Users\camat\Desktop\ERP AddOn\BestPracticeB1H 20150109\BestPracticeB1H 20150109\BestPracticeB1H\bin\Debug\ERPSypsoft.exe
+C:\Users\camat\Desktop\ERP AddOn\BestPracticeB1H 20150109\BestPracticeB1H 20150109\BestPracticeB1H\bin\Debug\ERPSypsoft.pdb
+C:\Users\camat\Desktop\ERP AddOn\BestPracticeB1H 20150109\BestPracticeB1H 20150109\BestPracticeB1H\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\camat\Desktop\ERP AddOn\BestPracticeB1H 20150109\BestPracticeB1H 20150109\BestPracticeB1H\obj\Debug\BestPracticeB1H.Properties.Resources.resources
+C:\Users\camat\Desktop\ERP AddOn\BestPracticeB1H 20150109\BestPracticeB1H 20150109\BestPracticeB1H\obj\Debug\SplashScreenSQL.SplashScreenSQL.resources
+C:\Users\camat\Desktop\ERP AddOn\BestPracticeB1H 20150109\BestPracticeB1H 20150109\BestPracticeB1H\obj\Debug\SplashScreen.SplashScreen.resources
+C:\Users\camat\Desktop\ERP AddOn\BestPracticeB1H 20150109\BestPracticeB1H 20150109\BestPracticeB1H\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\camat\Desktop\ERP AddOn\BestPracticeB1H 20150109\BestPracticeB1H 20150109\BestPracticeB1H\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\camat\Desktop\ERP AddOn v1.08\BestPracticeB1H 2015_01_12\BestPracticeB1H 2015_01_12\BestPracticeB1H\bin\Debug\ERPSypsoft.exe.config
+C:\Users\camat\Desktop\ERP AddOn v1.08\BestPracticeB1H 2015_01_12\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\camat\Desktop\ERP AddOn v1.08\BestPracticeB1H 2015_01_12\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\camat\Desktop\ERP AddOn v1.08\BestPracticeB1H 2015_01_12\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.ResolveComReference.cache
+C:\Users\camat\Desktop\ERP AddOn v1.08\BestPracticeB1H 2015_01_12\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\ERPSypsoft.exe
+C:\Users\camat\Desktop\ERP AddOn v1.08\BestPracticeB1H 2015_01_12\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\ERPSypsoft.pdb
+C:\Users\camat\Desktop\ERP AddOn v1.08\BestPracticeB1H 2015_01_12\BestPracticeB1H 2015_01_12\BestPracticeB1H\bin\Debug\ERPSypsoft.exe
+C:\Users\camat\Desktop\ERP AddOn v1.08\BestPracticeB1H 2015_01_12\BestPracticeB1H 2015_01_12\BestPracticeB1H\bin\Debug\ERPSypsoft.pdb
+C:\Users\camat\Desktop\ERP AddOn v1.08\BestPracticeB1H 2015_01_12\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\camat\Desktop\ERP AddOn v1.08\BestPracticeB1H 2015_01_12\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\BestPracticeB1H.Properties.Resources.resources
+C:\Users\camat\Desktop\ERP AddOn v1.08\BestPracticeB1H 2015_01_12\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\SplashScreenSQL.SplashScreenSQL.resources
+C:\Users\camat\Desktop\ERP AddOn v1.08\BestPracticeB1H 2015_01_12\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\SplashScreen.SplashScreen.resources
+C:\Users\camat\Desktop\ERP AddOn v1.08\BestPracticeB1H 2015_01_12\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\camat\Desktop\ERP AddOn v1.08\BestPracticeB1H 2015_01_12\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\carlos\Desktop\ERP AddOn v1.08\BestPracticeB1H 2015_01_12\BestPracticeB1H 2015_01_12\BestPracticeB1H\bin\Debug\ERPSypsoft.exe.config
+C:\Users\carlos\Desktop\ERP AddOn v1.08\BestPracticeB1H 2015_01_12\BestPracticeB1H 2015_01_12\BestPracticeB1H\bin\Debug\ERPSypsoft.exe
+C:\Users\carlos\Desktop\ERP AddOn v1.08\BestPracticeB1H 2015_01_12\BestPracticeB1H 2015_01_12\BestPracticeB1H\bin\Debug\ERPSypsoft.pdb
+C:\Users\carlos\Desktop\ERP AddOn v1.08\BestPracticeB1H 2015_01_12\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\carlos\Desktop\ERP AddOn v1.08\BestPracticeB1H 2015_01_12\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\carlos\Desktop\ERP AddOn v1.08\BestPracticeB1H 2015_01_12\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\carlos\Desktop\ERP AddOn v1.08\BestPracticeB1H 2015_01_12\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.ResolveComReference.cache
+C:\Users\carlos\Desktop\ERP AddOn v1.08\BestPracticeB1H 2015_01_12\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\BestPracticeB1H.Properties.Resources.resources
+C:\Users\carlos\Desktop\ERP AddOn v1.08\BestPracticeB1H 2015_01_12\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\SplashScreenSQL.SplashScreenSQL.resources
+C:\Users\carlos\Desktop\ERP AddOn v1.08\BestPracticeB1H 2015_01_12\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\SplashScreen.SplashScreen.resources
+C:\Users\carlos\Desktop\ERP AddOn v1.08\BestPracticeB1H 2015_01_12\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\carlos\Desktop\ERP AddOn v1.08\BestPracticeB1H 2015_01_12\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\carlos\Desktop\ERP AddOn v1.08\BestPracticeB1H 2015_01_12\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\ERPSypsoft.exe
+C:\Users\carlos\Desktop\ERP AddOn v1.08\BestPracticeB1H 2015_01_12\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\ERPSypsoft.pdb
+C:\Users\carlos\Desktop\ERP AddOn v1.08\ERPSypsoft_v1.09_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\bin\Debug\ERPSypsoft.exe.config
+C:\Users\carlos\Desktop\ERP AddOn v1.08\ERPSypsoft_v1.09_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\bin\Debug\ERPSypsoft.exe
+C:\Users\carlos\Desktop\ERP AddOn v1.08\ERPSypsoft_v1.09_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\bin\Debug\ERPSypsoft.pdb
+C:\Users\carlos\Desktop\ERP AddOn v1.08\ERPSypsoft_v1.09_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\carlos\Desktop\ERP AddOn v1.08\ERPSypsoft_v1.09_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\carlos\Desktop\ERP AddOn v1.08\ERPSypsoft_v1.09_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\carlos\Desktop\ERP AddOn v1.08\ERPSypsoft_v1.09_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.ResolveComReference.cache
+C:\Users\carlos\Desktop\ERP AddOn v1.08\ERPSypsoft_v1.09_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\BestPracticeB1H.Properties.Resources.resources
+C:\Users\carlos\Desktop\ERP AddOn v1.08\ERPSypsoft_v1.09_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\SplashScreenSQL.SplashScreenSQL.resources
+C:\Users\carlos\Desktop\ERP AddOn v1.08\ERPSypsoft_v1.09_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\SplashScreen.SplashScreen.resources
+C:\Users\carlos\Desktop\ERP AddOn v1.08\ERPSypsoft_v1.09_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\carlos\Desktop\ERP AddOn v1.08\ERPSypsoft_v1.09_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\carlos\Desktop\ERP AddOn v1.08\ERPSypsoft_v1.09_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\ERPSypsoft.exe
+C:\Users\carlos\Desktop\ERP AddOn v1.08\ERPSypsoft_v1.09_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\ERPSypsoft.pdb
+C:\Users\carlos\Desktop\ERP AddOn v1.09\ERPSypsoft_v1.09_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\bin\Debug\ERPSypsoft.exe.config
+C:\Users\carlos\Desktop\ERP AddOn v1.09\ERPSypsoft_v1.09_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\bin\Debug\ERPSypsoft.exe
+C:\Users\carlos\Desktop\ERP AddOn v1.09\ERPSypsoft_v1.09_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\bin\Debug\ERPSypsoft.pdb
+C:\Users\carlos\Desktop\ERP AddOn v1.09\ERPSypsoft_v1.09_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\carlos\Desktop\ERP AddOn v1.09\ERPSypsoft_v1.09_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\carlos\Desktop\ERP AddOn v1.09\ERPSypsoft_v1.09_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\carlos\Desktop\ERP AddOn v1.09\ERPSypsoft_v1.09_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.ResolveComReference.cache
+C:\Users\carlos\Desktop\ERP AddOn v1.09\ERPSypsoft_v1.09_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\BestPracticeB1H.Properties.Resources.resources
+C:\Users\carlos\Desktop\ERP AddOn v1.09\ERPSypsoft_v1.09_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\SplashScreenSQL.SplashScreenSQL.resources
+C:\Users\carlos\Desktop\ERP AddOn v1.09\ERPSypsoft_v1.09_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\SplashScreen.SplashScreen.resources
+C:\Users\carlos\Desktop\ERP AddOn v1.09\ERPSypsoft_v1.09_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\carlos\Desktop\ERP AddOn v1.09\ERPSypsoft_v1.09_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\carlos\Desktop\ERP AddOn v1.09\ERPSypsoft_v1.09_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\ERPSypsoft.exe
+C:\Users\carlos\Desktop\ERP AddOn v1.09\ERPSypsoft_v1.09_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\ERPSypsoft.pdb
+C:\Users\carlos\Desktop\ERP AddOn v1.09\ERPSypsoft_v1.10_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\bin\Debug\ERPSypsoft.exe.config
+C:\Users\carlos\Desktop\ERP AddOn v1.09\ERPSypsoft_v1.10_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\carlos\Desktop\ERP AddOn v1.09\ERPSypsoft_v1.10_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\carlos\Desktop\ERP AddOn v1.09\ERPSypsoft_v1.10_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.ResolveComReference.cache
+C:\Users\carlos\Desktop\ERP AddOn v1.09\ERPSypsoft_v1.10_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\ERPSypsoft.exe
+C:\Users\carlos\Desktop\ERP AddOn v1.09\ERPSypsoft_v1.10_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\ERPSypsoft.pdb
+C:\Users\carlos\Desktop\ERP AddOn v1.09\ERPSypsoft_v1.10_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\bin\Debug\ERPSypsoft.exe
+C:\Users\carlos\Desktop\ERP AddOn v1.09\ERPSypsoft_v1.10_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\bin\Debug\ERPSypsoft.pdb
+C:\Users\carlos\Desktop\ERP AddOn v1.09\ERPSypsoft_v1.10_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\carlos\Desktop\ERP AddOn v1.09\ERPSypsoft_v1.10_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\BestPracticeB1H.Properties.Resources.resources
+C:\Users\carlos\Desktop\ERP AddOn v1.09\ERPSypsoft_v1.10_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\SplashScreenSQL.SplashScreenSQL.resources
+C:\Users\carlos\Desktop\ERP AddOn v1.09\ERPSypsoft_v1.10_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\SplashScreen.SplashScreen.resources
+C:\Users\carlos\Desktop\ERP AddOn v1.09\ERPSypsoft_v1.10_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\carlos\Desktop\ERP AddOn v1.09\ERPSypsoft_v1.10_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\carlos\Desktop\ERP AddOn v1.10\ERPSypsoft_v1.10_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\bin\Debug\ERPSypsoft.exe.config
+C:\Users\carlos\Desktop\ERP AddOn v1.10\ERPSypsoft_v1.10_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\bin\Debug\ERPSypsoft.exe
+C:\Users\carlos\Desktop\ERP AddOn v1.10\ERPSypsoft_v1.10_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\bin\Debug\ERPSypsoft.pdb
+C:\Users\carlos\Desktop\ERP AddOn v1.10\ERPSypsoft_v1.10_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\carlos\Desktop\ERP AddOn v1.10\ERPSypsoft_v1.10_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\carlos\Desktop\ERP AddOn v1.10\ERPSypsoft_v1.10_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\carlos\Desktop\ERP AddOn v1.10\ERPSypsoft_v1.10_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.ResolveComReference.cache
+C:\Users\carlos\Desktop\ERP AddOn v1.10\ERPSypsoft_v1.10_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\BestPracticeB1H.Properties.Resources.resources
+C:\Users\carlos\Desktop\ERP AddOn v1.10\ERPSypsoft_v1.10_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\SplashScreenSQL.SplashScreenSQL.resources
+C:\Users\carlos\Desktop\ERP AddOn v1.10\ERPSypsoft_v1.10_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\SplashScreen.SplashScreen.resources
+C:\Users\carlos\Desktop\ERP AddOn v1.10\ERPSypsoft_v1.10_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\carlos\Desktop\ERP AddOn v1.10\ERPSypsoft_v1.10_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\carlos\Desktop\ERP AddOn v1.10\ERPSypsoft_v1.10_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\ERPSypsoft.exe
+C:\Users\carlos\Desktop\ERP AddOn v1.10\ERPSypsoft_v1.10_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\ERPSypsoft.pdb
+C:\Users\jmotta\Desktop\ERPSypsoft_v1.11_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\bin\Debug\ERPSypsoft.exe.config
+C:\Users\jmotta\Desktop\ERPSypsoft_v1.11_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\jmotta\Desktop\ERPSypsoft_v1.11_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\jmotta\Desktop\ERPSypsoft_v1.11_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.ResolveComReference.cache
+C:\Users\jmotta\Desktop\ERPSypsoft_v1.11_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\ERPSypsoft.exe
+C:\Users\jmotta\Desktop\ERPSypsoft_v1.11_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\ERPSypsoft.pdb
+D:\ERP\ERPSypsoft_v1.11_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\bin\Debug\ERPSypsoft.exe.config
+D:\ERP\ERPSypsoft_v1.11_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\bin\Debug\ERPSypsoft.exe
+D:\ERP\ERPSypsoft_v1.11_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\bin\Debug\ERPSypsoft.pdb
+D:\ERP\ERPSypsoft_v1.11_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\ResolveAssemblyReference.cache
+D:\ERP\ERPSypsoft_v1.11_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+D:\ERP\ERPSypsoft_v1.11_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+D:\ERP\ERPSypsoft_v1.11_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.ResolveComReference.cache
+D:\ERP\ERPSypsoft_v1.11_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\BestPracticeB1H.Properties.Resources.resources
+D:\ERP\ERPSypsoft_v1.11_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\SplashScreenSQL.SplashScreenSQL.resources
+D:\ERP\ERPSypsoft_v1.11_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\SplashScreen.SplashScreen.resources
+D:\ERP\ERPSypsoft_v1.11_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\GenerateResource.read.1.tlog
+D:\ERP\ERPSypsoft_v1.11_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\GenerateResource.write.1.tlog
+D:\ERP\ERPSypsoft_v1.11_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\ERPSypsoft.exe
+D:\ERP\ERPSypsoft_v1.11_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\ERPSypsoft.pdb
+C:\Users\carlos\Desktop\ERP AddOn v1.11\ERPSypsoft_v1.11_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\bin\Debug\ERPSypsoft.exe.config
+C:\Users\carlos\Desktop\ERP AddOn v1.11\ERPSypsoft_v1.11_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\bin\Debug\ERPSypsoft.exe
+C:\Users\carlos\Desktop\ERP AddOn v1.11\ERPSypsoft_v1.11_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\bin\Debug\ERPSypsoft.pdb
+C:\Users\carlos\Desktop\ERP AddOn v1.11\ERPSypsoft_v1.11_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\carlos\Desktop\ERP AddOn v1.11\ERPSypsoft_v1.11_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\carlos\Desktop\ERP AddOn v1.11\ERPSypsoft_v1.11_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\carlos\Desktop\ERP AddOn v1.11\ERPSypsoft_v1.11_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.ResolveComReference.cache
+C:\Users\carlos\Desktop\ERP AddOn v1.11\ERPSypsoft_v1.11_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\BestPracticeB1H.Properties.Resources.resources
+C:\Users\carlos\Desktop\ERP AddOn v1.11\ERPSypsoft_v1.11_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\SplashScreenSQL.SplashScreenSQL.resources
+C:\Users\carlos\Desktop\ERP AddOn v1.11\ERPSypsoft_v1.11_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\SplashScreen.SplashScreen.resources
+C:\Users\carlos\Desktop\ERP AddOn v1.11\ERPSypsoft_v1.11_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\carlos\Desktop\ERP AddOn v1.11\ERPSypsoft_v1.11_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\carlos\Desktop\ERP AddOn v1.11\ERPSypsoft_v1.11_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\ERPSypsoft.exe
+C:\Users\carlos\Desktop\ERP AddOn v1.11\ERPSypsoft_v1.11_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\ERPSypsoft.pdb
+C:\Users\carlos\Desktop\ERP AddOn v1.11\ERPSypsoft_v1.12_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\bin\Debug\ERPSypsoft.exe.config
+C:\Users\carlos\Desktop\ERP AddOn v1.11\ERPSypsoft_v1.12_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\bin\Debug\ERPSypsoft.exe
+C:\Users\carlos\Desktop\ERP AddOn v1.11\ERPSypsoft_v1.12_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\bin\Debug\ERPSypsoft.pdb
+C:\Users\carlos\Desktop\ERP AddOn v1.11\ERPSypsoft_v1.12_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\carlos\Desktop\ERP AddOn v1.11\ERPSypsoft_v1.12_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\carlos\Desktop\ERP AddOn v1.11\ERPSypsoft_v1.12_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\carlos\Desktop\ERP AddOn v1.11\ERPSypsoft_v1.12_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.ResolveComReference.cache
+C:\Users\carlos\Desktop\ERP AddOn v1.11\ERPSypsoft_v1.12_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\BestPracticeB1H.Properties.Resources.resources
+C:\Users\carlos\Desktop\ERP AddOn v1.11\ERPSypsoft_v1.12_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\SplashScreenSQL.SplashScreenSQL.resources
+C:\Users\carlos\Desktop\ERP AddOn v1.11\ERPSypsoft_v1.12_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\SplashScreen.SplashScreen.resources
+C:\Users\carlos\Desktop\ERP AddOn v1.11\ERPSypsoft_v1.12_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\carlos\Desktop\ERP AddOn v1.11\ERPSypsoft_v1.12_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\carlos\Desktop\ERP AddOn v1.11\ERPSypsoft_v1.12_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\ERPSypsoft.exe
+C:\Users\carlos\Desktop\ERP AddOn v1.11\ERPSypsoft_v1.12_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\ERPSypsoft.pdb
+C:\Users\carlos\Desktop\ERP AddOn v1.12\ERPSypsoft_v1.12_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\bin\Debug\ERPSypsoft.exe.config
+C:\Users\carlos\Desktop\ERP AddOn v1.12\ERPSypsoft_v1.12_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\carlos\Desktop\ERP AddOn v1.12\ERPSypsoft_v1.12_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\carlos\Desktop\ERP AddOn v1.12\ERPSypsoft_v1.12_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.ResolveComReference.cache
+C:\Users\carlos\Desktop\ERP AddOn v1.12\ERPSypsoft_v1.12_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\ERPSypsoft.exe
+C:\Users\carlos\Desktop\ERP AddOn v1.12\ERPSypsoft_v1.12_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\ERPSypsoft.pdb
+C:\Users\carlos\Desktop\ERP AddOn v1.13\ERPSypsoft_v1.13_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\bin\Debug\ERPSypsoft.exe.config
+C:\Users\carlos\Desktop\ERP AddOn v1.13\ERPSypsoft_v1.13_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\bin\Debug\ERPSypsoft.exe
+C:\Users\carlos\Desktop\ERP AddOn v1.13\ERPSypsoft_v1.13_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\bin\Debug\ERPSypsoft.pdb
+C:\Users\carlos\Desktop\ERP AddOn v1.13\ERPSypsoft_v1.13_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\carlos\Desktop\ERP AddOn v1.13\ERPSypsoft_v1.13_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\carlos\Desktop\ERP AddOn v1.13\ERPSypsoft_v1.13_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\carlos\Desktop\ERP AddOn v1.13\ERPSypsoft_v1.13_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.ResolveComReference.cache
+C:\Users\carlos\Desktop\ERP AddOn v1.13\ERPSypsoft_v1.13_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\BestPracticeB1H.Properties.Resources.resources
+C:\Users\carlos\Desktop\ERP AddOn v1.13\ERPSypsoft_v1.13_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\SplashScreenSQL.SplashScreenSQL.resources
+C:\Users\carlos\Desktop\ERP AddOn v1.13\ERPSypsoft_v1.13_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\SplashScreen.SplashScreen.resources
+C:\Users\carlos\Desktop\ERP AddOn v1.13\ERPSypsoft_v1.13_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\carlos\Desktop\ERP AddOn v1.13\ERPSypsoft_v1.13_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\carlos\Desktop\ERP AddOn v1.13\ERPSypsoft_v1.13_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\ERPSypsoft.exe
+C:\Users\carlos\Desktop\ERP AddOn v1.13\ERPSypsoft_v1.13_Fuente\BestPracticeB1H 2015_01_26\BestPracticeB1H 2015_01_12\BestPracticeB1H\obj\Debug\ERPSypsoft.pdb
+C:\Users\carlos\Desktop\ERP AddOn v1.14\ERPSypsoft_v1.14_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe.config
+C:\Users\carlos\Desktop\ERP AddOn v1.14\ERPSypsoft_v1.14_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe
+C:\Users\carlos\Desktop\ERP AddOn v1.14\ERPSypsoft_v1.14_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.pdb
+C:\Users\carlos\Desktop\ERP AddOn v1.14\ERPSypsoft_v1.14_Fuente\BestPracticeB1H\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\carlos\Desktop\ERP AddOn v1.14\ERPSypsoft_v1.14_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\carlos\Desktop\ERP AddOn v1.14\ERPSypsoft_v1.14_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\carlos\Desktop\ERP AddOn v1.14\ERPSypsoft_v1.14_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.ResolveComReference.cache
+C:\Users\carlos\Desktop\ERP AddOn v1.14\ERPSypsoft_v1.14_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.Properties.Resources.resources
+C:\Users\carlos\Desktop\ERP AddOn v1.14\ERPSypsoft_v1.14_Fuente\BestPracticeB1H\obj\Debug\SplashScreenSQL.SplashScreenSQL.resources
+C:\Users\carlos\Desktop\ERP AddOn v1.14\ERPSypsoft_v1.14_Fuente\BestPracticeB1H\obj\Debug\SplashScreen.SplashScreen.resources
+C:\Users\carlos\Desktop\ERP AddOn v1.14\ERPSypsoft_v1.14_Fuente\BestPracticeB1H\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\carlos\Desktop\ERP AddOn v1.14\ERPSypsoft_v1.14_Fuente\BestPracticeB1H\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\carlos\Desktop\ERP AddOn v1.14\ERPSypsoft_v1.14_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.exe
+C:\Users\carlos\Desktop\ERP AddOn v1.14\ERPSypsoft_v1.14_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.pdb
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.15_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe.config
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.15_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.15_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.pdb
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.15_Fuente\BestPracticeB1H\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.15_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.15_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.15_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.ResolveComReference.cache
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.15_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.Properties.Resources.resources
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.15_Fuente\BestPracticeB1H\obj\Debug\SplashScreenSQL.SplashScreenSQL.resources
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.15_Fuente\BestPracticeB1H\obj\Debug\SplashScreen.SplashScreen.resources
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.15_Fuente\BestPracticeB1H\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.15_Fuente\BestPracticeB1H\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.15_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.exe
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.15_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.pdb
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.15_Fuente - copia\BestPracticeB1H\bin\Debug\ERPSypsoft.exe.config
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.15_Fuente - copia\BestPracticeB1H\bin\Debug\ERPSypsoft.exe
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.15_Fuente - copia\BestPracticeB1H\bin\Debug\ERPSypsoft.pdb
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.15_Fuente - copia\BestPracticeB1H\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.15_Fuente - copia\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.15_Fuente - copia\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.15_Fuente - copia\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.ResolveComReference.cache
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.15_Fuente - copia\BestPracticeB1H\obj\Debug\BestPracticeB1H.Properties.Resources.resources
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.15_Fuente - copia\BestPracticeB1H\obj\Debug\SplashScreenSQL.SplashScreenSQL.resources
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.15_Fuente - copia\BestPracticeB1H\obj\Debug\SplashScreen.SplashScreen.resources
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.15_Fuente - copia\BestPracticeB1H\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.15_Fuente - copia\BestPracticeB1H\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.15_Fuente - copia\BestPracticeB1H\obj\Debug\ERPSypsoft.exe
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.15_Fuente - copia\BestPracticeB1H\obj\Debug\ERPSypsoft.pdb
+D:\ADD_ONS\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe.config
+D:\ADD_ONS\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+D:\ADD_ONS\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+D:\ADD_ONS\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.ResolveComReference.cache
+D:\ADD_ONS\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.exe
+D:\ADD_ONS\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.pdb
+D:\ADD_ONS\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe
+D:\ADD_ONS\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.pdb
+D:\ADD_ONS\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\obj\Debug\ResolveAssemblyReference.cache
+D:\ADD_ONS\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.Properties.Resources.resources
+D:\ADD_ONS\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\obj\Debug\SplashScreenSQL.SplashScreenSQL.resources
+D:\ADD_ONS\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\obj\Debug\SplashScreen.SplashScreen.resources
+D:\ADD_ONS\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\obj\Debug\GenerateResource.read.1.tlog
+D:\ADD_ONS\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\obj\Debug\GenerateResource.write.1.tlog
+D:\ADDONS\Reportes Legales\ERPSypsoft_v1.16_Fuente-Alejandro-20150424\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe.config
+D:\ADDONS\Reportes Legales\ERPSypsoft_v1.16_Fuente-Alejandro-20150424\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+D:\ADDONS\Reportes Legales\ERPSypsoft_v1.16_Fuente-Alejandro-20150424\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+D:\ADDONS\Reportes Legales\ERPSypsoft_v1.16_Fuente-Alejandro-20150424\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.ResolveComReference.cache
+D:\ADDONS\Reportes Legales\ERPSypsoft_v1.16_Fuente-Alejandro-20150424\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.exe
+D:\ADDONS\Reportes Legales\ERPSypsoft_v1.16_Fuente-Alejandro-20150424\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.pdb
+D:\ADDONS\Reportes Legales\ERPSypsoft_v1.16_Fuente-Alejandro-20150424\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe
+D:\ADDONS\Reportes Legales\ERPSypsoft_v1.16_Fuente-Alejandro-20150424\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.pdb
+D:\ADDONS\Reportes Legales\ERPSypsoft_v1.16_Fuente-Alejandro-20150424\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.Properties.Resources.resources
+D:\ADDONS\Reportes Legales\ERPSypsoft_v1.16_Fuente-Alejandro-20150424\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\obj\Debug\SplashScreenSQL.SplashScreenSQL.resources
+D:\ADDONS\Reportes Legales\ERPSypsoft_v1.16_Fuente-Alejandro-20150424\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\obj\Debug\SplashScreen.SplashScreen.resources
+D:\ADDONS\Reportes Legales\ERPSypsoft_v1.16_Fuente-Alejandro-20150424\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.GenerateResource.Cache
+C:\Users\carlos\Desktop\ERP AddOn v1.16\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe.config
+C:\Users\carlos\Desktop\ERP AddOn v1.16\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe
+C:\Users\carlos\Desktop\ERP AddOn v1.16\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.pdb
+C:\Users\carlos\Desktop\ERP AddOn v1.16\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\carlos\Desktop\ERP AddOn v1.16\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\carlos\Desktop\ERP AddOn v1.16\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\carlos\Desktop\ERP AddOn v1.16\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.ResolveComReference.cache
+C:\Users\carlos\Desktop\ERP AddOn v1.16\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.Properties.Resources.resources
+C:\Users\carlos\Desktop\ERP AddOn v1.16\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\obj\Debug\SplashScreenSQL.SplashScreenSQL.resources
+C:\Users\carlos\Desktop\ERP AddOn v1.16\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\obj\Debug\SplashScreen.SplashScreen.resources
+C:\Users\carlos\Desktop\ERP AddOn v1.16\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\carlos\Desktop\ERP AddOn v1.16\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\carlos\Desktop\ERP AddOn v1.16\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.exe
+C:\Users\carlos\Desktop\ERP AddOn v1.16\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.pdb
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe.config
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.pdb
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.ResolveComReference.cache
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.Properties.Resources.resources
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\obj\Debug\SplashScreenSQL.SplashScreenSQL.resources
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\obj\Debug\SplashScreen.SplashScreen.resources
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.exe
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.16_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.pdb
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe.config
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.pdb
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.ResolveComReference.cache
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.Properties.Resources.resources
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\obj\Debug\SplashScreenSQL.SplashScreenSQL.resources
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\obj\Debug\SplashScreen.SplashScreen.resources
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.exe
+C:\Users\Javier Motta\Desktop\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.pdb
+C:\Users\carlos\Desktop\ERP AddOn v1.17\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe.config
+C:\Users\carlos\Desktop\ERP AddOn v1.17\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe
+C:\Users\carlos\Desktop\ERP AddOn v1.17\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.pdb
+C:\Users\carlos\Desktop\ERP AddOn v1.17\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\carlos\Desktop\ERP AddOn v1.17\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\carlos\Desktop\ERP AddOn v1.17\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\carlos\Desktop\ERP AddOn v1.17\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.ResolveComReference.cache
+C:\Users\carlos\Desktop\ERP AddOn v1.17\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.Properties.Resources.resources
+C:\Users\carlos\Desktop\ERP AddOn v1.17\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\obj\Debug\SplashScreenSQL.SplashScreenSQL.resources
+C:\Users\carlos\Desktop\ERP AddOn v1.17\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\obj\Debug\SplashScreen.SplashScreen.resources
+C:\Users\carlos\Desktop\ERP AddOn v1.17\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\carlos\Desktop\ERP AddOn v1.17\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\carlos\Desktop\ERP AddOn v1.17\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.exe
+C:\Users\carlos\Desktop\ERP AddOn v1.17\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.pdb
+C:\Users\CAO003\Desktop\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe.config
+C:\Users\CAO003\Desktop\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\CAO003\Desktop\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\CAO003\Desktop\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.ResolveComReference.cache
+C:\Users\CAO003\Desktop\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.exe
+C:\Users\CAO003\Desktop\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.pdb
+C:\Users\CAO003\Desktop\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe
+C:\Users\CAO003\Desktop\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.pdb
+C:\Users\CAO003\Desktop\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.Properties.Resources.resources
+C:\Users\CAO003\Desktop\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\obj\Debug\SplashScreenSQL.SplashScreenSQL.resources
+C:\Users\CAO003\Desktop\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\obj\Debug\SplashScreen.SplashScreen.resources
+C:\Users\CAO003\Desktop\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.GenerateResource.Cache
+C:\Users\cao001\Desktop\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe.config
+C:\Users\cao001\Desktop\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\cao001\Desktop\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\cao001\Desktop\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.ResolveComReference.cache
+C:\Users\cao001\Desktop\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.exe
+C:\Users\cao001\Desktop\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.pdb
+C:\Users\cao001\Desktop\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe
+C:\Users\cao001\Desktop\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.pdb
+C:\Users\cao001\Desktop\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.Properties.Resources.resources
+C:\Users\cao001\Desktop\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\obj\Debug\SplashScreenSQL.SplashScreenSQL.resources
+C:\Users\cao001\Desktop\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\obj\Debug\SplashScreen.SplashScreen.resources
+C:\Users\cao001\Desktop\ERPSypsoft_v1.17_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.GenerateResource.Cache
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.20\ERPSypsoft_v1.20_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe.config
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.20\ERPSypsoft_v1.20_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.20\ERPSypsoft_v1.20_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.pdb
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.20\ERPSypsoft_v1.20_Fuente\BestPracticeB1H\obj\Debug\ResolveAssemblyReference.cache
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.20\ERPSypsoft_v1.20_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.20\ERPSypsoft_v1.20_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.20\ERPSypsoft_v1.20_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.ResolveComReference.cache
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.20\ERPSypsoft_v1.20_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonCuentaDestino.ResCTADES.resources
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.20\ERPSypsoft_v1.20_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonDetracciones.ResDETRAC.resources
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.20\ERPSypsoft_v1.20_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonPercepciones.ResPERCEP.resources
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.20\ERPSypsoft_v1.20_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonRetenciones.ResRETEN.resources
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.20\ERPSypsoft_v1.20_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.Properties.Resources.resources
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.20\ERPSypsoft_v1.20_Fuente\BestPracticeB1H\obj\Debug\SplashScreenSQL.SplashScreenSQL.resources
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.20\ERPSypsoft_v1.20_Fuente\BestPracticeB1H\obj\Debug\SplashScreen.SplashScreen.resources
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.20\ERPSypsoft_v1.20_Fuente\BestPracticeB1H\obj\Debug\GenerateResource.read.1.tlog
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.20\ERPSypsoft_v1.20_Fuente\BestPracticeB1H\obj\Debug\GenerateResource.write.1.tlog
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.20\ERPSypsoft_v1.20_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.exe
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.20\ERPSypsoft_v1.20_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.pdb
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.23\ERPSypsoft_v1.23_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe.config
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.23\ERPSypsoft_v1.23_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.23\ERPSypsoft_v1.23_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.23\ERPSypsoft_v1.23_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.ResolveComReference.cache
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.23\ERPSypsoft_v1.23_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.exe
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.23\ERPSypsoft_v1.23_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.pdb
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.23\ERPSypsoft_v1.23_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.23\ERPSypsoft_v1.23_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.pdb
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.23\ERPSypsoft_v1.23_Fuente\BestPracticeB1H\obj\Debug\ResolveAssemblyReference.cache
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.23\ERPSypsoft_v1.23_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonCuentaDestino.ResCTADES.resources
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.23\ERPSypsoft_v1.23_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonDetracciones.ResDETRAC.resources
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.23\ERPSypsoft_v1.23_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonPercepciones.ResPERCEP.resources
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.23\ERPSypsoft_v1.23_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonRetenciones.ResRETEN.resources
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.23\ERPSypsoft_v1.23_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.DB_Structure.LayoutProcedures.resources
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.23\ERPSypsoft_v1.23_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.Properties.Resources.resources
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.23\ERPSypsoft_v1.23_Fuente\BestPracticeB1H\obj\Debug\SplashScreenSQL.SplashScreenSQL.resources
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.23\ERPSypsoft_v1.23_Fuente\BestPracticeB1H\obj\Debug\SplashScreen.SplashScreen.resources
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.23\ERPSypsoft_v1.23_Fuente\BestPracticeB1H\obj\Debug\GenerateResource.read.1.tlog
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.23\ERPSypsoft_v1.23_Fuente\BestPracticeB1H\obj\Debug\GenerateResource.write.1.tlog
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24\ERPSypsoft_v1.24_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe.config
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24\ERPSypsoft_v1.24_Fuente\BestPracticeB1H\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24\ERPSypsoft_v1.24_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24\ERPSypsoft_v1.24_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24\ERPSypsoft_v1.24_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.ResolveComReference.cache
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24\ERPSypsoft_v1.24_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.exe
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24\ERPSypsoft_v1.24_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.pdb
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24.1\ERPSypsoft_v1.24.1_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe.config
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24.1\ERPSypsoft_v1.24.1_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24.1\ERPSypsoft_v1.24.1_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.pdb
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24.1\ERPSypsoft_v1.24.1_Fuente\BestPracticeB1H\obj\Debug\ResolveAssemblyReference.cache
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24.1\ERPSypsoft_v1.24.1_Fuente\BestPracticeB1H\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24.1\ERPSypsoft_v1.24.1_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24.1\ERPSypsoft_v1.24.1_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24.1\ERPSypsoft_v1.24.1_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.ResolveComReference.cache
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24.1\ERPSypsoft_v1.24.1_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonCuentaDestino.ResCTADES.resources
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24.1\ERPSypsoft_v1.24.1_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonDetracciones.ResDETRAC.resources
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24.1\ERPSypsoft_v1.24.1_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonPercepciones.ResPERCEP.resources
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24.1\ERPSypsoft_v1.24.1_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonRetenciones.ResRETEN.resources
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24.1\ERPSypsoft_v1.24.1_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.DB_Structure.LayoutProcedures.resources
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24.1\ERPSypsoft_v1.24.1_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.Properties.Resources.resources
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24.1\ERPSypsoft_v1.24.1_Fuente\BestPracticeB1H\obj\Debug\SplashScreenSQL.SplashScreenSQL.resources
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24.1\ERPSypsoft_v1.24.1_Fuente\BestPracticeB1H\obj\Debug\SplashScreen.SplashScreen.resources
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24.1\ERPSypsoft_v1.24.1_Fuente\BestPracticeB1H\obj\Debug\GenerateResource.read.1.tlog
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24.1\ERPSypsoft_v1.24.1_Fuente\BestPracticeB1H\obj\Debug\GenerateResource.write.1.tlog
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24.1\ERPSypsoft_v1.24.1_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.exe
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24.1\ERPSypsoft_v1.24.1_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.pdb
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24.4\ERPSypsoft_v1.24.4_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe.config
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24.4\ERPSypsoft_v1.24.4_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24.4\ERPSypsoft_v1.24.4_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.pdb
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24.4\ERPSypsoft_v1.24.4_Fuente\BestPracticeB1H\obj\Debug\ResolveAssemblyReference.cache
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24.4\ERPSypsoft_v1.24.4_Fuente\BestPracticeB1H\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24.4\ERPSypsoft_v1.24.4_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24.4\ERPSypsoft_v1.24.4_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24.4\ERPSypsoft_v1.24.4_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.ResolveComReference.cache
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24.4\ERPSypsoft_v1.24.4_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonCuentaDestino.ResCTADES.resources
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24.4\ERPSypsoft_v1.24.4_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonDetracciones.ResDETRAC.resources
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24.4\ERPSypsoft_v1.24.4_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonPercepciones.ResPERCEP.resources
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24.4\ERPSypsoft_v1.24.4_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonRetenciones.ResRETEN.resources
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24.4\ERPSypsoft_v1.24.4_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.DB_Structure.LayoutProcedures.resources
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24.4\ERPSypsoft_v1.24.4_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.Properties.Resources.resources
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24.4\ERPSypsoft_v1.24.4_Fuente\BestPracticeB1H\obj\Debug\SplashScreenSQL.SplashScreenSQL.resources
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24.4\ERPSypsoft_v1.24.4_Fuente\BestPracticeB1H\obj\Debug\SplashScreen.SplashScreen.resources
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24.4\ERPSypsoft_v1.24.4_Fuente\BestPracticeB1H\obj\Debug\GenerateResource.read.1.tlog
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24.4\ERPSypsoft_v1.24.4_Fuente\BestPracticeB1H\obj\Debug\GenerateResource.write.1.tlog
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24.4\ERPSypsoft_v1.24.4_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.exe
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24.4\ERPSypsoft_v1.24.4_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.pdb
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24\ERP AddOn v1.24.4\ERPSypsoft_v1.24.4_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe.config
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24\ERP AddOn v1.24.4\ERPSypsoft_v1.24.4_Fuente\BestPracticeB1H\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24\ERP AddOn v1.24.4\ERPSypsoft_v1.24.4_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24\ERP AddOn v1.24.4\ERPSypsoft_v1.24.4_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24\ERP AddOn v1.24.4\ERPSypsoft_v1.24.4_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.ResolveComReference.cache
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24\ERP AddOn v1.24.4\ERPSypsoft_v1.24.4_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.exe
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.24\ERP AddOn v1.24.4\ERPSypsoft_v1.24.4_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.pdb
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.25\ERP AddOn v1.24.4\ERPSypsoft_v1.25.0_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe.config
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.25\ERP AddOn v1.24.4\ERPSypsoft_v1.25.0_Fuente\BestPracticeB1H\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.25\ERP AddOn v1.24.4\ERPSypsoft_v1.25.0_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.25\ERP AddOn v1.24.4\ERPSypsoft_v1.25.0_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.25\ERP AddOn v1.24.4\ERPSypsoft_v1.25.0_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.ResolveComReference.cache
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.25\ERP AddOn v1.24.4\ERPSypsoft_v1.25.0_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.exe
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.25\ERP AddOn v1.24.4\ERPSypsoft_v1.25.0_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.pdb
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.25\ERP AddOn v1.25.0\ERPSypsoft_v1.25.0_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe.config
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.25\ERP AddOn v1.25.0\ERPSypsoft_v1.25.0_Fuente\BestPracticeB1H\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.25\ERP AddOn v1.25.0\ERPSypsoft_v1.25.0_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.25\ERP AddOn v1.25.0\ERPSypsoft_v1.25.0_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.25\ERP AddOn v1.25.0\ERPSypsoft_v1.25.0_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.ResolveComReference.cache
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.25\ERP AddOn v1.25.0\ERPSypsoft_v1.25.0_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.exe
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.25\ERP AddOn v1.25.0\ERPSypsoft_v1.25.0_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.pdb
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.25\ERP AddOn v1.25.0\ERPSypsoft_v1.25.0_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.25\ERP AddOn v1.25.0\ERPSypsoft_v1.25.0_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.pdb
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.25\ERP AddOn v1.25.0\ERPSypsoft_v1.25.0_Fuente\BestPracticeB1H\obj\Debug\ResolveAssemblyReference.cache
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.25\ERP AddOn v1.25.0\ERPSypsoft_v1.25.0_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonCuentaDestino.ResCTADES.resources
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.25\ERP AddOn v1.25.0\ERPSypsoft_v1.25.0_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonDetracciones.ResDETRAC.resources
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.25\ERP AddOn v1.25.0\ERPSypsoft_v1.25.0_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonPercepciones.ResPERCEP.resources
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.25\ERP AddOn v1.25.0\ERPSypsoft_v1.25.0_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonRetenciones.ResRETEN.resources
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.25\ERP AddOn v1.25.0\ERPSypsoft_v1.25.0_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.DB_Structure.LayoutProcedures.resources
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.25\ERP AddOn v1.25.0\ERPSypsoft_v1.25.0_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.Properties.Resources.resources
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.25\ERP AddOn v1.25.0\ERPSypsoft_v1.25.0_Fuente\BestPracticeB1H\obj\Debug\SplashScreenSQL.SplashScreenSQL.resources
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.25\ERP AddOn v1.25.0\ERPSypsoft_v1.25.0_Fuente\BestPracticeB1H\obj\Debug\SplashScreen.SplashScreen.resources
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.25\ERP AddOn v1.25.0\ERPSypsoft_v1.25.0_Fuente\BestPracticeB1H\obj\Debug\GenerateResource.read.1.tlog
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.25\ERP AddOn v1.25.0\ERPSypsoft_v1.25.0_Fuente\BestPracticeB1H\obj\Debug\GenerateResource.write.1.tlog
+D:\SAP\ERPSypsoft_v1.24.8_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe.config
+D:\SAP\ERPSypsoft_v1.24.8_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe
+D:\SAP\ERPSypsoft_v1.24.8_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.pdb
+D:\SAP\ERPSypsoft_v1.24.8_Fuente\BestPracticeB1H\bin\Debug\Newtonsoft.Json.dll
+D:\SAP\ERPSypsoft_v1.24.8_Fuente\BestPracticeB1H\bin\Debug\Newtonsoft.Json.pdb
+D:\SAP\ERPSypsoft_v1.24.8_Fuente\BestPracticeB1H\bin\Debug\Newtonsoft.Json.xml
+D:\SAP\ERPSypsoft_v1.24.8_Fuente\BestPracticeB1H\obj\Debug\ResolveAssemblyReference.cache
+D:\SAP\ERPSypsoft_v1.24.8_Fuente\BestPracticeB1H\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\SAP\ERPSypsoft_v1.24.8_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+D:\SAP\ERPSypsoft_v1.24.8_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+D:\SAP\ERPSypsoft_v1.24.8_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.ResolveComReference.cache
+D:\SAP\ERPSypsoft_v1.24.8_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonCuentaDestino.ResCTADES.resources
+D:\SAP\ERPSypsoft_v1.24.8_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonDetracciones.ResDETRAC.resources
+D:\SAP\ERPSypsoft_v1.24.8_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonPercepciones.ResPERCEP.resources
+D:\SAP\ERPSypsoft_v1.24.8_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonRetenciones.ResRETEN.resources
+D:\SAP\ERPSypsoft_v1.24.8_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.DB_Structure.LayoutProcedures.resources
+D:\SAP\ERPSypsoft_v1.24.8_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.Properties.Resources.resources
+D:\SAP\ERPSypsoft_v1.24.8_Fuente\BestPracticeB1H\obj\Debug\SplashScreenSQL.SplashScreenSQL.resources
+D:\SAP\ERPSypsoft_v1.24.8_Fuente\BestPracticeB1H\obj\Debug\SplashScreen.SplashScreen.resources
+D:\SAP\ERPSypsoft_v1.24.8_Fuente\BestPracticeB1H\obj\Debug\GenerateResource.read.1.tlog
+D:\SAP\ERPSypsoft_v1.24.8_Fuente\BestPracticeB1H\obj\Debug\GenerateResource.write.1.tlog
+D:\SAP\ERPSypsoft_v1.24.8_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.exe
+D:\SAP\ERPSypsoft_v1.24.8_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.pdb
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.25\ERPSypsoft_v1.25.0_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe.config
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.25\ERPSypsoft_v1.25.0_Fuente\BestPracticeB1H\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.25\ERPSypsoft_v1.25.0_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.25\ERPSypsoft_v1.25.0_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.25\ERPSypsoft_v1.25.0_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.ResolveComReference.cache
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.25\ERPSypsoft_v1.25.0_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.exe
+D:\DESARROLLO\ERPSypsoft\ERP AddOn v1.25\ERPSypsoft_v1.25.0_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.pdb
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.0_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe.config
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.0_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.0_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.pdb
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.0_Fuente\BestPracticeB1H\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.0_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.0_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.0_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.ResolveComReference.cache
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.0_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonConsignador.ResConsignador.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.0_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonCuentaDestino.ResCTADES.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.0_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonDetracciones.ResDETRAC.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.0_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonFactoring.ResFACT.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.0_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonFacturaNegociable.ResFACN.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.0_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonGrandesCompradores.ResGC.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.0_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonPercepciones.ResPERCEP.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.0_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonProduccion.ResPROD.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.0_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonProvisionServ.ResProvServ.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.0_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonReconciliaciones.ResRECO.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.0_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonRetenciones.ResRETEN.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.0_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.DB_Structure.LayoutProcedures.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.0_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.Properties.Resources.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.0_Fuente\BestPracticeB1H\obj\Debug\SplashScreenSQL.SplashScreenSQL.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.0_Fuente\BestPracticeB1H\obj\Debug\SplashScreen.SplashScreen.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.0_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.GenerateResource.Cache
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.0_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.exe
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.0_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.pdb
+C:\Users\jmotta\Desktop\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe.config
+C:\Users\jmotta\Desktop\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+C:\Users\jmotta\Desktop\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\jmotta\Desktop\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\jmotta\Desktop\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.ResolveComReference.cache
+C:\Users\jmotta\Desktop\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.exe
+C:\Users\jmotta\Desktop\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.pdb
+C:\Users\jmotta\Desktop\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe
+C:\Users\jmotta\Desktop\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.pdb
+C:\Users\jmotta\Desktop\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.csprojResolveAssemblyReference.cache
+C:\Users\jmotta\Desktop\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonConsignador.ResConsignador.resources
+C:\Users\jmotta\Desktop\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonCuentaDestino.ResCTADES.resources
+C:\Users\jmotta\Desktop\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonDetracciones.ResDETRAC.resources
+C:\Users\jmotta\Desktop\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonFactoring.ResFACT.resources
+C:\Users\jmotta\Desktop\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonFacturaNegociable.ResFACN.resources
+C:\Users\jmotta\Desktop\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonGrandesCompradores.ResGC.resources
+C:\Users\jmotta\Desktop\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonPercepciones.ResPERCEP.resources
+C:\Users\jmotta\Desktop\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonProduccion.ResPROD.resources
+C:\Users\jmotta\Desktop\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonProvisionServ.ResProvServ.resources
+C:\Users\jmotta\Desktop\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonReconciliaciones.ResRECO.resources
+C:\Users\jmotta\Desktop\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonRetenciones.ResRETEN.resources
+C:\Users\jmotta\Desktop\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.DB_Structure.LayoutProcedures.resources
+C:\Users\jmotta\Desktop\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.Properties.Resources.resources
+C:\Users\jmotta\Desktop\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\SplashScreenSQL.SplashScreenSQL.resources
+C:\Users\jmotta\Desktop\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\SplashScreen.SplashScreen.resources
+C:\Users\jmotta\Desktop\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.GenerateResource.Cache
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe.config
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.pdb
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.csprojResolveAssemblyReference.cache
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.ResolveComReference.cache
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonConsignador.ResConsignador.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonCuentaDestino.ResCTADES.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonDetracciones.ResDETRAC.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonFactoring.ResFACT.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonFacturaNegociable.ResFACN.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonGrandesCompradores.ResGC.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonPercepciones.ResPERCEP.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonProduccion.ResPROD.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonProvisionServ.ResProvServ.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonReconciliaciones.ResRECO.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonRetenciones.ResRETEN.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.DB_Structure.LayoutProcedures.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.Properties.Resources.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\SplashScreenSQL.SplashScreenSQL.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\SplashScreen.SplashScreen.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.GenerateResource.Cache
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.exe
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.1_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.pdb
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.2_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe.config
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.2_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.2_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.pdb
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.2_Fuente\BestPracticeB1H\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.2_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.2_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.2_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.ResolveComReference.cache
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.2_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonConsignador.ResConsignador.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.2_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonCuentaDestino.ResCTADES.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.2_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonDetracciones.ResDETRAC.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.2_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonFactoring.ResFACT.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.2_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonFacturaNegociable.ResFACN.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.2_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonGrandesCompradores.ResGC.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.2_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonPercepciones.ResPERCEP.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.2_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonProduccion.ResPROD.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.2_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonProvisionServ.ResProvServ.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.2_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonReconciliaciones.ResRECO.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.2_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonRetenciones.ResRETEN.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.2_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.DB_Structure.LayoutProcedures.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.2_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.Properties.Resources.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.2_Fuente\BestPracticeB1H\obj\Debug\SplashScreenSQL.SplashScreenSQL.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.2_Fuente\BestPracticeB1H\obj\Debug\SplashScreen.SplashScreen.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.2_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.GenerateResource.Cache
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.2_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.exe
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.2_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.pdb
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.5_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe.config
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.5_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.5_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.pdb
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.5_Fuente\BestPracticeB1H\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.5_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.5_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.5_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.ResolveComReference.cache
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.5_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonConsignador.ResConsignador.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.5_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonCuentaDestino.ResCTADES.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.5_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonDetracciones.ResDETRAC.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.5_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonFactoring.ResFACT.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.5_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonFacturaNegociable.ResFACN.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.5_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonGrandesCompradores.ResGC.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.5_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonPercepciones.ResPERCEP.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.5_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonProduccion.ResPROD.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.5_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonProvisionServ.ResProvServ.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.5_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonReconciliaciones.ResRECO.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.5_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonRetenciones.ResRETEN.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.5_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.DB_Structure.LayoutProcedures.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.5_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.Properties.Resources.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.5_Fuente\BestPracticeB1H\obj\Debug\SplashScreenSQL.SplashScreenSQL.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.5_Fuente\BestPracticeB1H\obj\Debug\SplashScreen.SplashScreen.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.5_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.GenerateResource.Cache
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.5_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.exe
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.5_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.pdb
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.5_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.csprojResolveAssemblyReference.cache
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe.config
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.ResolveComReference.cache
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.exe
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.pdb
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.pdb
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.csprojResolveAssemblyReference.cache
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonConsignador.ResConsignador.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonCuentaDestino.ResCTADES.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonDetracciones.ResDETRAC.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonFactoring.ResFACT.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonFacturaNegociable.ResFACN.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonGrandesCompradores.ResGC.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonPercepciones.ResPERCEP.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonProduccion.ResPROD.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonProvisionServ.ResProvServ.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonReconciliaciones.ResRECO.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonRetenciones.ResRETEN.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.DB_Structure.LayoutProcedures.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.Properties.Resources.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\SplashScreenSQL.SplashScreenSQL.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\SplashScreen.SplashScreen.resources
+D:\SYPSOFT\01 DESARROLLOS\SYPSA ESTANDAR\06 BPS Sypsoft\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.GenerateResource.Cache
+D:\ADDONS\Juan\FF\GC\ERPSypsoft_v1.26.6_Fuente\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe.config
+D:\ADDONS\Juan\FF\GC\ERPSypsoft_v1.26.6_Fuente\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\ADDONS\Juan\FF\GC\ERPSypsoft_v1.26.6_Fuente\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+D:\ADDONS\Juan\FF\GC\ERPSypsoft_v1.26.6_Fuente\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+D:\ADDONS\Juan\FF\GC\ERPSypsoft_v1.26.6_Fuente\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.ResolveComReference.cache
+D:\ADDONS\Juan\FF\GC\ERPSypsoft_v1.26.6_Fuente\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.exe
+D:\ADDONS\Juan\FF\GC\ERPSypsoft_v1.26.6_Fuente\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\ERPSypsoft.pdb
+D:\ADDONS\Juan\FF\GC\ERPSypsoft_v1.26.6_Fuente\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.exe
+D:\ADDONS\Juan\FF\GC\ERPSypsoft_v1.26.6_Fuente\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\bin\Debug\ERPSypsoft.pdb
+D:\ADDONS\Juan\FF\GC\ERPSypsoft_v1.26.6_Fuente\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.csprojResolveAssemblyReference.cache
+D:\ADDONS\Juan\FF\GC\ERPSypsoft_v1.26.6_Fuente\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonConsignador.ResConsignador.resources
+D:\ADDONS\Juan\FF\GC\ERPSypsoft_v1.26.6_Fuente\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonCuentaDestino.ResCTADES.resources
+D:\ADDONS\Juan\FF\GC\ERPSypsoft_v1.26.6_Fuente\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonDetracciones.ResDETRAC.resources
+D:\ADDONS\Juan\FF\GC\ERPSypsoft_v1.26.6_Fuente\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonFactoring.ResFACT.resources
+D:\ADDONS\Juan\FF\GC\ERPSypsoft_v1.26.6_Fuente\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonFacturaNegociable.ResFACN.resources
+D:\ADDONS\Juan\FF\GC\ERPSypsoft_v1.26.6_Fuente\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonGrandesCompradores.ResGC.resources
+D:\ADDONS\Juan\FF\GC\ERPSypsoft_v1.26.6_Fuente\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonPercepciones.ResPERCEP.resources
+D:\ADDONS\Juan\FF\GC\ERPSypsoft_v1.26.6_Fuente\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonProduccion.ResPROD.resources
+D:\ADDONS\Juan\FF\GC\ERPSypsoft_v1.26.6_Fuente\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonProvisionServ.ResProvServ.resources
+D:\ADDONS\Juan\FF\GC\ERPSypsoft_v1.26.6_Fuente\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonReconciliaciones.ResRECO.resources
+D:\ADDONS\Juan\FF\GC\ERPSypsoft_v1.26.6_Fuente\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.AddonRetenciones.ResRETEN.resources
+D:\ADDONS\Juan\FF\GC\ERPSypsoft_v1.26.6_Fuente\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.DB_Structure.LayoutProcedures.resources
+D:\ADDONS\Juan\FF\GC\ERPSypsoft_v1.26.6_Fuente\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.Properties.Resources.resources
+D:\ADDONS\Juan\FF\GC\ERPSypsoft_v1.26.6_Fuente\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\SplashScreenSQL.SplashScreenSQL.resources
+D:\ADDONS\Juan\FF\GC\ERPSypsoft_v1.26.6_Fuente\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\SplashScreen.SplashScreen.resources
+D:\ADDONS\Juan\FF\GC\ERPSypsoft_v1.26.6_Fuente\ERPSypsoft_v1.26.6_Fuente\BestPracticeB1H\obj\Debug\BestPracticeB1H.csproj.GenerateResource.Cache

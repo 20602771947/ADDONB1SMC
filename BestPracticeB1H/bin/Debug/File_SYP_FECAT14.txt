@@ -1,0 +1,13 @@
+﻿Code	Name	SYP_DESCL
+Code	Name	SYP_DESCL
+1001	Tot Venta operaciones grabadas	Total valor de venta - operaciones gravadas
+1002	Tot Venta operaciones inafectas	Total valor de venta - operaciones inafectas
+1003	Tot Venta operac exoneradas	Total valor de venta - operaciones exoneradas
+1004	Tot Venta operaciones gratuitas	Total valor de venta - operaciones gratuitas
+1005	Sub Total de Venta	Sub Total de Venta
+2001	Percepciones	Percepciones
+2002	Retenciones	Retenciones
+2003	Detracciones	Detracciones
+2004	Bonificaciones	Bonificaciones
+2005	Total descuentos	Total descuentos
+3001	Fondo Inclusion Social Energ	FISE (Ley 29852 Fondo Inclusión Social Energético)

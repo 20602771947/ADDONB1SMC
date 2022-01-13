@@ -1,0 +1,25 @@
+﻿Code	Name	U_SYP_CUENTA
+Code	Name	U_SYP_CUENTA
+*	Valor Inválido	
+01	Pago a Proveedores	
+02	Anticipo a proveedores	422
+03	Devolución a Clientes	121
+04	Transferencias	104
+05	Préstamos al Personal	141
+06	Pago de impuestos	41
+07	Pago Gastos Financieros	
+08	Factoring	
+09	Factura Negociable	
+99	Otros	
+CC01	Apertura/ Reposición Caja Chica	102
+CC02	Gasto de Caja Chica	102
+DT01	Pago Detracciones	
+DT02	Pago Factura + Detracción	
+DT03	Devolucion detracción	
+DT04	Pago autodetracción	
+ER01	Entrega a rendir	141
+ER02	Reembolso de Entrega a Rendir	141
+ERC1	Gasto CC y Apertura ER	
+ERC2	Gasto CC y Reembolso ER	
+RT01	Pago retención IGV	4011
+PE01	Pago de Percepción IGV	4011

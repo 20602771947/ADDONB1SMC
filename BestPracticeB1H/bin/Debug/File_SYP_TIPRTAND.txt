@@ -1,0 +1,46 @@
+﻿Code	Name	U_SYP_DESCONCEP
+Code	Name	U_SYP_DESCONCEP
+00	00	Bienes
+01	01	Arrendamiento de predios
+02	02	Enajenación Inmuebles y derechos sobre inmuebles
+03	03	Rentas de bienes situados en el país o derechos utilizados en el país, incluye enajenación.
+04	04	Regalias: Bienes o derechos por los que pagan son utilizados país.
+05	05	Regalias: Pagador de las regalías es domiciliado.
+06	06	Por capitales,  intereses, comisiones, primas - operaciones financieras - capital utilizado en el país o el pagador sea un sujeto domiciliado. Originadas por fondos de cualquier tipo de entidad, por cesión a terceros de un capital, por operaciones de capitalización o por contratos de seguro de vida o invalidez que no tengan su origen en el trabajo personal.
+07	07	Dividendos y cualquier otra forma de distribución de utilidades, cuando la empresa que los distribuye, pague y acredite se encuentre domiciliada en el país, o cuando el fondo de inversión, patrimonio fideicometido o fiduciario banacario, fondo de pensiones, que lo distribuya, pague o acredite, se encuentre constituido o establecido en el país
+08	08	Los rendimientos de los ADR y GDRs que tengan como subyacentes acciones emitidas por empresas no domiciliadas
+09	09	Originadas en actividades civiles, comerciales, empresariales o de cualquier índole, que se lleven a cabo en territorio nacional.
+10	10	Originadas en el trabajo personal que lleven a cabo en el territorio nacional No comprende cuando se ingresa al país  temporalmente a efectuar: actos previos a la realización de inversiones extranjeras; actos destinados a supervisar o controlar la inversión o el negocio, tales como los de recolección de datos o información o la realización de entrevistas; actos relacionados con la contratación de personal local; actos relacionados con la firma de convenios o actos similares.
+11	11	Rentas vitalicias y las pensiones que tengan su origen en el trabajo personal, pagadas por un sujeto domiciliada
+12	12	Las obtenidas por la enajenación de acciones y participaciones representativas del capital,  cuando las empresas, que los hayan emitido estén constituidos o establecidos en el Perú. Fuera de Bolsa
+13	13	Las obtenidas por la enajenación,  de  certificados, títulos, bonos y papeles comerciales, valores representativos de cédulas hipotecarias, obligaciones al portador u otros valores al portador y otros valores mobiliarios cuando los  Fondos de Inversión, Fondos Mutuos de Inversión en Valores o Patrimonios Fideicometidos que los hayan emitido estén constituidos o establecidos en el Perú.  Fuera de Bolsa
+14	14	Las obtenidas por la redención o rescate de certificados, títulos, bonos y papeles comerciales, valores representativos de cédulas hipotecarias, obligaciones al portador u otros valores al portador y otros valores mobiliarios cuando los  Fondos de Inversión, Fondos Mutuos de Inversión en Valores o Patrimonios Fideicometidos que los hayan emitido estén constituidos o establecidos en el Perú.  Fuera de Bolsa
+15	15	Las obtenidas por la enajenación de acciones y participaciones representativas del capital, acciones de inversión, certificados, títulos, bonos y papeles comerciales, valores representativos de cédulas hipotecarias, obligaciones al portador u otros valores al portador y otros valores mobiliarios cuando las empresas, sociedades, Fondos de Inversión, Fondos Mutuos de Inversión en Valores o Patrimonios Fideicometidos que los hayan emitido estén constituidos o establecidos en el Perú.  Dentro de Bolsa
+16	16	Las obtenidas por la redención o rescate de  acciones de inversión, certificados, títulos, bonos y papeles comerciales, valores representativos de cédulas hipotecarias, obligaciones al portador u otros valores al portador y otros valores mobiliarios cuando las empresas, sociedades, Fondos de Inversión, Fondos Mutuos de Inversión en Valores o Patrimonios Fideicometidos que los hayan emitido estén constituidos o establecidos en el Perú. Dentro de Bolsa
+17	17	Enajenación de los ADR’s  y GDR’s  que tengan como subyacente acciones emitidas por empresas domiciliadas en el país.
+18	18	Las obtenidas por servicios digitales prestados a través del Internet o de cualquier adaptación o aplicación de los protocolos, plataformas o de la tecnología utilizada por Internet o cualquier otra red a través de la que se presten servicios equivalentes, cuando el servicio se utilice económicamente, use o consuma en el país
+19	19	La obtenida por asistencia técnica, cuando ésta se utilice económicamente en el país
+20	20	Los intereses de obligaciones, cuando la entidad emisora ha sido constituida en el país
+21	21	Remuneracion pagada por Domiciliados; Sujeto miembro de un consejo directivo o adm.; Actuación en el Extranjero
+22	22	Honorarios o remuneraciones del Sector Público Nacional por trabajos realizados en el exterior.
+23	23	Resultados Proveniente de la contratación de IFD
+24	24	Resultados  de IFD con cobertura destinados a la generación de RFP
+25	25	Proveniente de la contratación de IFD sin cobertura destinados a la generación de RFP
+26	26	IFD donde Activo subyacente sea referido al Tipo de Cambio Moneda extranjera. 180 dias. (La Dom es la prestadora del IFD, la No Dom es la que obtiene el resultado)
+27	27	Las obtenidas por la enajenación indirecta de acciones y participaciones representativas del capital de personas jurídicas domiciliadas en el país, cuando la operación cumple las condiciones para ser gravadas en el Perú
+28	28	Se incluye dentro de la enajenación de de empresas no domiciliadas en el país la enajenación de ADR´s (American Depositary Receipts) que tengan como subyacente a tales acciones.
+29	29	Sujeto es el No Dom que distribuye  por la reducción de capital dentro de los 12 meses anteriores cuando hubiera aumentado su capital como consecuencia de nuevos aportes, de capitalización de créditos o de una reorganización
+30	30	Actividades de Seguros 7% sobre las primas.  Comisiones por  Reaseguros sobre personas y/o bienes radicados en el país
+31	31	Alquiler de Naves, 8% sobre Ingresos Brutos que perciban por dicha actividad
+32	32	Alquiler de Aeronaves, 60% sobre Ingresos Brutos que perciban por dicha actividad
+33	33	1% por el ingresos brutos por el transporte aéreo.
+34	34	Excepto Otros transportes no aereos o maritimos que van por los ingresos de la parte prestada en el país
+35	35	2% por el ingresos brutos por fletamiento o transporte marítimo.
+36	36	Empresas por reciprocidad en lineas extranjeras con sedes en esos países
+37	37	Servicio portadores, teleservcios o finales, difusión y de valor añadido. Con excepcion de los Servicios Digitales según 4-A
+38	38	10%. sobre las remuneraciones brutas que obtengan por el suministro de noticias y, en general material informativo o gráfico, a personas o entidades domiciliadas o que utilicen dicho material en el país.
+39	39	para su utilización por personas naturales o jurídicas domiciliadas: 20% sobre los ingresos brutos que perciban por el uso de películas cinematográficas o para televisión, "video tape", radionovelas, discos fonográficos, historietas gráficas y cualquier otro medio similar de proyección, reproducción, transmisión o difusión de imágenes o sonidos.
+40	40	en el país o desde el país al exterior y no presten el servicio de transporte 15% de los ingresos brutos que obtengan por dicho suministro.
+41	41	80% de los ingresos brutos que obtengan por el exceso de estadía de contenedores.
+42	42	20% de los ingresos brutos que obtengan los contribuyentes no domiciliados por la cesión de derechos para la retransmisión por televisión en el país de eventos en vivo realizados en el extranjero.
+43	43	Extranjeros que ingresan al país y cuentas con las siguientes calidades especificas a prestar servicios

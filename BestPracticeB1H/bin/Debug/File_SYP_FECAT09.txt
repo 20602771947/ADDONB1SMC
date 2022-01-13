@@ -1,0 +1,12 @@
+﻿Code	Name	SYP_DESCL
+Code	Name	SYP_DESCL
+01	Anulación de la operación	Anulación de la operación
+02	Anulación por error en el RUC	Anulación por error en el RUC
+03	Corrección por error en la desc	Corrección por error en la descripcion
+04	Descuento global	Descuento global
+05	Descuento por ítem	Descuento por ítem
+06	Devolución total	Devolución total
+07	Devolución por ítem	Devolución por ítem
+08	Bonificación	Bonificación
+09	Disminución en el valor	Disminución en el valor
+10	Otros Conceptos	Otros Conceptos

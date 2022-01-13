@@ -1,0 +1,11 @@
+﻿Code	Name	U_SYP_CONCEP	U_SYP_NIVEL	U_SYP_TIPO	U_SYP_VMENSUAL	U_SYP_VVALOR
+Code	Name	U_SYP_CONCEP	U_SYP_NIVEL	U_SYP_TIPO	U_SYP_VMENSUAL	U_SYP_VVALOR
+1	1	1.Materiales y Suministros	1	S	Y	Y
+2	2	2.Mano de Obra Directa	2	S	Y	Y
+3	3	3.Otros Costos Directos	3	S	Y	Y
+4	4	4.Gastos de Producción Indirectos	4	S	Y	Y
+5	5	4.1.Materiales y Suministros Indirectos	4	S	Y	Y
+6	6	4.2.Mano de Obra Indirecta	4	S	Y	Y
+7	7	4.3.Otros Gastos de Producción Indirecta	4	S	Y	Y
+8	8	Inventario Inicial de Productos en Proceso	8	T	N	Y
+9	9	Inventario Final de Productos en Proceso	9	T	N	Y

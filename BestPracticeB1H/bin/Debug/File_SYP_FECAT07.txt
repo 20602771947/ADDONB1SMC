@@ -1,0 +1,18 @@
+﻿Code	Name	SYP_DESCL
+Code	Name	SYP_DESCL
+10	Gravado Operacion Onerosa	Gravado – Operación Onerosa
+11	Gravado Retiro por premio	Gravado – Retiro por premio
+12	Gravado Retiro por donacion	Gravado – Retiro por donación
+13	Gravado Retiro 	Gravado – Retiro 
+14	Gravado Retiro por publicidad	Gravado – Retiro por publicidad
+15	Gravado Bonificaciones	Gravado – Bonificaciones
+16	G. Retiro por entrega a trabaj	Gravado – Retiro por entrega a trabajadores
+20	Exonerado Operación Onerosa	Exonerado - Operación Onerosa
+30	Inafecto Operación Onerosa	Inafecto - Operación Onerosa
+31	Inafecto Retiro por Bonif	Inafecto – Retiro por Bonificación
+32	Inafecto Retiro	Inafecto – Retiro
+33	Inaf Ret por Muestras Médicas	Inafecto – Retiro por Muestras Médicas
+34	Inaf Ret por Convenio Colect	Inafecto -  Retiro por Convenio Colectivo
+35	Inafecto Retiro por premio	Inafecto – Retiro por premio
+36	Inafecto Retiro por publicidad	Inafecto -  Retiro por publicidad
+40	Exportación	Exportación

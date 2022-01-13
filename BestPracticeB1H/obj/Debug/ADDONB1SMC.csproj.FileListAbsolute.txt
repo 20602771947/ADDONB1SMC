@@ -1,0 +1,15 @@
+C:\Users\FERNANDO\Desktop\ADDONB1SMC\BestPracticeB1H\obj\Debug\ADDONB1SMC.csprojAssemblyReference.cache
+C:\Users\FERNANDO\Desktop\ADDONB1SMC\BestPracticeB1H\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+C:\Users\FERNANDO\Desktop\ADDONB1SMC\BestPracticeB1H\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\FERNANDO\Desktop\ADDONB1SMC\BestPracticeB1H\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\FERNANDO\Desktop\ADDONB1SMC\BestPracticeB1H\obj\Debug\ADDONB1SMC.csproj.ResolveComReference.cache
+C:\Users\FERNANDO\Desktop\ADDONB1SMC\BestPracticeB1H\obj\Debug\ADDONB1SMC.Properties.Resources.resources
+C:\Users\FERNANDO\Desktop\ADDONB1SMC\BestPracticeB1H\obj\Debug\ADDONB1SMC.csproj.GenerateResource.cache
+C:\Users\FERNANDO\Desktop\ADDONB1SMC\BestPracticeB1H\obj\Debug\ADDONB1SMC.csproj.CoreCompileInputs.cache
+C:\Users\FERNANDO\Desktop\ADDONB1SMC\BestPracticeB1H\bin\Debug\SMARTCODE.exe.config
+C:\Users\FERNANDO\Desktop\ADDONB1SMC\BestPracticeB1H\bin\Debug\SMARTCODE.exe
+C:\Users\FERNANDO\Desktop\ADDONB1SMC\BestPracticeB1H\bin\Debug\SMARTCODE.pdb
+C:\Users\FERNANDO\Desktop\ADDONB1SMC\BestPracticeB1H\bin\Debug\Newtonsoft.Json.dll
+C:\Users\FERNANDO\Desktop\ADDONB1SMC\BestPracticeB1H\obj\Debug\ADDONB1SMC.csproj.CopyComplete
+C:\Users\FERNANDO\Desktop\ADDONB1SMC\BestPracticeB1H\obj\Debug\SMARTCODE.exe
+C:\Users\FERNANDO\Desktop\ADDONB1SMC\BestPracticeB1H\obj\Debug\SMARTCODE.pdb

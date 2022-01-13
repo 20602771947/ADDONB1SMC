@@ -1,0 +1,11 @@
+﻿Code	Name
+Code	Name
+AR	Aprobado con Restricción
+EE	En Evaluación
+AP	Aprobado
+CA	Coactivo Aprobado
+NE	No Evaluado
+CP	Coactivo por Pagar
+SE	Seleccionado
+CC	Caja Chica
+ER	Entregas a Rendir

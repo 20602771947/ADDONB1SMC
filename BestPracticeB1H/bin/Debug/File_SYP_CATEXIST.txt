@@ -1,0 +1,5 @@
+Code	Name	DescripcionLarga
+Code	Name	DescripcionLarga
+1	NACIONES UNIDAS	NACIONES UNIDAS
+3	GS1 (EAN-UCC)	GS1 (EAN-UCC)
+9	OTROS	OTROS

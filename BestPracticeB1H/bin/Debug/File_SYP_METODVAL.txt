@@ -1,0 +1,8 @@
+﻿Code	Name	U_SYP_DESCP	U_SYP_VALSAP
+Code	Name	U_SYP_DESCP	U_SYP_VALSAP
+1	Promedio ponderado	Promedio ponderado	A
+2	FIFO	Primeras entradas, primeras salidas	F
+3	Existencias básicas	Existencias básicas	
+4	Detallista	Detallista	
+5	Identificación específica	Identificación específica	B
+9	Otros	Otros	

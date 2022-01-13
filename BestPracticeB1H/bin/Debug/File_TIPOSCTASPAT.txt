@@ -1,0 +1,13 @@
+﻿Code	Name	U_SYP_DESC	U_Tipo
+Code	Name	U_SYP_DESC	U_Tipo
+01	Efecto acumulado de los cambio	Efecto acumulado de los cambios en las políticas contables y la corrección de errores sustanciales	
+02	Distribuciones o asignaciones	Distribuciones o asignaciones de utilidades efectuadas en el período	
+03	Dividendos y participaciones	Dividendos y participaciones acordados durante el período	
+04	Nuevos aportes de accionistas	Nuevos aportes de accionistas	
+05	Movimiento de prima	Movimiento de prima en la colocación de aportes y donaciones	
+06	Incrementos o disminuciones	Incrementos o disminuciones por fusiones o escisiones	
+07	Revaluación de activos	Revaluación de activos	
+08	Capitalización de partidas	Capitalización de partidas patrimoniales	
+09	Redención de acciones	Redención de Acciones de Inversión o reducción de capital	
+10	Utilidad (pérdida) Neta del ej	Utilidad (pérdida) Neta del ejercicio	
+11	Otros incrementos o disminucio	Otros incrementos o disminuciones de las partidas patrimoniales	

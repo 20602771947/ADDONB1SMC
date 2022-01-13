@@ -1,0 +1,5 @@
+﻿Code	Name	SYP_DESCL
+Code	Name	SYP_DESCL
+01	Sistema al valor	Sistema al valor (Apéndice IV, lit. A – T.U.O IGV e ISC)
+02	Aplicación del Monto Fijo	Aplicación del Monto Fijo (Apéndice IV, lit. B – T.U.O IGV e ISC)
+03	Sist de Precios de Venta	Sistema de Precios de Venta al Público (Apéndice IV, lit. C – T.U.O IGV e ISC)

@@ -1,0 +1,18 @@
+﻿Code	Name	U_SYP_CUENTA
+Code	Name	U_SYP_CUENTA
+*	Valor Inválido	
+01	Cobranza a Clientes	
+02	Anticipos de Clientes	122
+03	Devolución a Proveedores	121
+04	Transferencias	104
+05	Cobro de préstamos al Personal	14
+06	Devolución de Pago Exceso	421
+07	Préstamos Varios	14
+99	Otros	
+DT01	Cobro Detracción	
+DT02	Pago autodetracción	
+DT03	Devolucion detracción	
+DT04	Cobro Factura + Detracción	
+ER03	Liquidación de Entrega a Rendir	141
+RT01	Retención de Clientes	4011
+RT02	Cobro Factura + Retención	4011

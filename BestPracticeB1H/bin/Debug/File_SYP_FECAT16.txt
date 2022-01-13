@@ -1,0 +1,4 @@
+﻿Code	Name	SYP_DESCL
+Code	Name	SYP_DESCL
+01	Precio unitario (con IGV)	Precio unitario (incluye el IGV)
+02	V.Unit.Ref en op. no onerosas	Valor referencial unitario en operaciones no onerosas

@@ -1,0 +1,4 @@
+C:\Users\carlos\Desktop\ERP AddOn\BestPracticeB1H 20141215-JM\BestPracticeB1H 20141215\BestPracticeB1H\bin\Itanium\Debug\ERPSypsoft.exe.config
+C:\Users\carlos\Desktop\ERP AddOn\BestPracticeB1H 20141215-JM\BestPracticeB1H 20141215\BestPracticeB1H\obj\Itanium\Debug\Interop.SAPbobsCOM.dll
+C:\Users\carlos\Desktop\ERP AddOn\BestPracticeB1H 20141215-JM\BestPracticeB1H 20141215\BestPracticeB1H\obj\Itanium\Debug\Interop.SAPbouiCOM.dll
+C:\Users\carlos\Desktop\ERP AddOn\BestPracticeB1H 20141215-JM\BestPracticeB1H 20141215\BestPracticeB1H\obj\Itanium\Debug\BestPracticeB1H.csproj.ResolveComReference.cache

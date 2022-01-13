@@ -1,0 +1,30 @@
+﻿Code	Name	SYP_DESCL
+Code	Name	SYP_DESCL
+1000	Monto de Letras	Monto en Letras
+1002	Leyen Transf Gratuita Bien/Serv 	Leyenda "TRANSFERENCIA GRATUITA DE UN BIEN Y/O SERVICIO PRESTADO GRATUITAMENTE"
+2000	Leyen comprobante de percep	Leyenda “COMPROBANTE DE PERCEPCIÓN”
+2001	Leyen Bienes Region selva	Leyenda “BIENES TRANSFERIDOS EN LA AMAZONÍA REGIÓN SELVAPARA SER CONSUMIDOS EN LA MISMA"
+2002	Leyen Servicios Region selva	Leyenda “SERVICIOS PRESTADOS EN LA AMAZONÍA REGIÓN SELVA PARA SER CONSUMIDOS EN LA MISMA”
+2003	Leyen Construcn Region selva	Leyenda “CONTRATOS DE CONSTRUCCIÓN EJECUTADOS EN LA AMAZONÍA REGIÓN SELVA”
+2004	Leyen Agencia de Viaje	Leyenda “Agencia de Viaje - Paquete turístico”
+3000	Detrac Codigo de BB y SS	Detracciones: CODIGO DE BB Y SS SUJETOS A DETRACCION
+3001	Detrac Numero de cta en BN	Detracciones: NUMERO DE CTA EN EL BN
+3002	Detrac RH Nomb y Matr embarc	Detracciones: Recursos Hidrobiológicos-Nombre y matrícula de la embarcación
+3003	Detrac RH Tipo y Cantid vend	Detracciones: Recursos Hidrobiológicos-Tipo y cantidad de especie vendida
+3004	Detrac RH Lugar descargar	Detracciones: Recursos Hidrobiológicos -Lugar de descarga
+3005	Detrac RH Fecha de entrega	Detracciones: Recursos Hidrobiológicos -Fecha de descarga
+3006	Detrac Terrest Numb Reg MTC	Detracciones: Transporte Bienes vía terrestre – Numero Registro MTC
+3007	Detrac Terrest config Vehic	Detracciones: Transporte Bienes vía terrestre – configuración vehicular
+3008	Detrac Terrest Pto de origen	Detracciones: Transporte Bienes vía terrestre – punto de origen
+3009	Detrac Terrest Pto de destino	Detracciones: Transporte Bienes vía terrestre – punto destino
+3010	Detrac Terrest Val Ref prelim	Detracciones: Transporte Bienes vía terrestre – valor referencial preliminar
+4000	Benef Hosp Cod Pais emision 	Beneficio hospedajes: Código País de emisión del pasaporte
+4001	Benef Hosp Cod Pais residen	Beneficio hospedajes: Código País de residencia del sujeto no domiciliado
+4002	Benef Hosp Fecha ingr pais	Beneficio Hospedajes: Fecha de ingreso al país
+4003	Benef Hosp Fecha ingr establec	Beneficio Hospedajes: Fecha de ingreso al establecimiento
+4004	Benef Hosp Fech salid establec	Beneficio Hospedajes: Fecha de salida del establecimiento
+4005	Benef Hosp Nro días perm	Beneficio Hospedajes: Número de días de permanencia
+4006	Benef Hosp Fecha consumo	Beneficio Hospedajes: Fecha de consumo
+4007	Benef Hosp Nombres y Apellidos	Beneficio Hospedajes: Paquete turístico - Nombres y Apellidos del Huésped
+4008	Benef Hosp Tipo doc	Beneficio Hospedajes: Paquete turístico – Tipo documento identidad del huésped
+4009	Benef Hosp Num Doc	Beneficio Hospedajes: Paquete turístico – Numero de documento identidad de huésped

@@ -1,0 +1,12 @@
+﻿Code	Name	SYP_DESCL
+Code	Name	SYP_DESCL
+01	Venta Interna	Venta Interna
+02	Exportación	Exportación
+03	No Domiciliado	No Domiciliado
+04	Venta Interna Anticipos	Venta Interna Anticipos
+05	Venta Itinerante	Venta Itinerante
+06	Factura Guía	Factura Guía
+07	Venta Arroz Pilado	Venta Arroz Pilado
+08	Factura - Comp. Percep.	Factura - Comprobante de Percepción
+10	Factura - Guía Remitente	Factura - Guía Remitente
+11	Factura - Guía Transportista	Factura - Guía Transportista

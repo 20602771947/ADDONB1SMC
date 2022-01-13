@@ -1,0 +1,8 @@
+﻿Code	Name	SYP_DESCL
+Code	Name	SYP_DESCL
+01	Factura para corregir RUC	Factura – emitida para corregir error en el RUC
+02	Factura emitida por anticipos	Factura – emitida por anticipos
+03	Boleta emitida por anticipos	Boleta – emitida por anticipos
+04	Ticket de Salida ENAPU 	Ticket de Salida - ENAPU 
+05	Código SCOP	Código SCOP
+99	Otros	Otros

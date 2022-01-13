@@ -1,0 +1,78 @@
+﻿AbsoluteEntry	BankCode	BankName	SwiftNo	IBAN	CountryCode	PostOffice	DefaultBankAccountKey
+AbsEntry	BankCode	BankName	SwiftNum	IBAN	CountryCod	PostOffice	DfltActKey
+	01	Central Reserva Del Perú			PE		
+	02	De Crédito Del Perú			PE		
+	03	Internacional Del Perú			PE		
+	05	Latino			PE		
+	07	Citibank Del Perú S.A.			PE		
+	08	Standard Chartered			PE		
+	09	Scotiabank Perú			PE		
+	11	Continental			PE		
+	12	De Lima			PE		
+	16	Mercantil			PE		
+	18	De la Nación			PE		
+	22	Santander Central Hispano			PE		
+	23	De Comercio			PE		
+	25	República			PE		
+	26	NBK Bank			PE		
+	29	Bancosur			PE		
+	35	Financiero Del Perú			PE		
+	37	Del Progreso			PE		
+	38	Interamericano Finanzas			PE		
+	39	Banex			PE		
+	40	Nuevo Mundo			PE		
+	41	Sudamericano			PE		
+	42	Del Libertador			PE		
+	43	Del Trabajo			PE		
+	44	Solventa			PE		
+	45	Serbanco SA			PE		
+	46	Bank Of Boston			PE		
+	47	Orion			PE		
+	48	Del País			PE		
+	49	Mi Banco			PE		
+	50	BNP Paribas			PE		
+	53	Banco GNB			PE		
+	54	Banco Falabella Perú			PE		
+	55	Banco Ripley			PE		
+	56	Banco Santander Perú S.A.			PE		
+	58	Banco Azteca Del Perú			PE		
+	99	Bancos Del Exterior			PE		
+	A0	Caja Municipal De Crédito Popular De Lima			PE		
+	A1	Caja Municipal De Ahorro y Crédito Arequipa			PE		
+	A2	Caja Municipal Ahorro y Crédito De Trujillo S.A			PE		
+	A3	CMAC Piura S.A.C.			PE		
+	A4	Caja Municipal Ahorro y Crédito Sullana S. A.			PE		
+	A5	Caja Municipal De Ahorro y Crédito De Paita S.A.			PE		
+	A6	Caja Municipal De Ahorro y Crédito Cusco S.A.			PE		
+	A7	Caja Municipal De Ahorro Crédito Ica S.A.			PE		
+	A8	Caja Municipal Ahorro y Crédito Pisco S.A.			PE		
+	A9	Caja Municipal De Ahorro y Crédito De Tacna S.A.			PE		
+	B0	Caja Municipal De Ahorro y Crédito Maynas S.A.			PE		
+	B1	CMAC - Huancayo S.A.			PE		
+	B2	Caja Municipal Ahorro y Crédito Del Santa S.A.			PE		
+	B3	Productos y Mercados Agrícolas De Huaral Caja Rural De Ahorros y Créditos			PE		
+	B4	Caja Rural De Ahorro y Crédito Quillabamba			PE		
+	B5	Caja Rural De Ahorro y Crédito Los Libertadores			PE		
+	B6	Caja Rural De Ahorro y Crédito Señor De Luren			PE		
+	B7	Caja Rural De Ahorro y Crédito Chavín S.A.			PE		
+	B8	Caja Rural De Ahorro y Crédito Cajamarca S.A.A.			PE		
+	B9	Caja Rural De Ahorro y Crédito Sipán S.A.			PE		
+	C0	Caja Rural De Ahorro y Crédito Los Andes			PE		
+	C1	CAJASUR			PE		
+	C2	Caja Rural De Ahorro y Crédito Nor Perú			PE		
+	C3	Caja Rural De Ahorro y Crédito Reg. San Martin			PE		
+	C4	CRAC Promotora De Finanzas S.A.A.			PE		
+	C5	EDYFICAR			PE		
+	C6	EDPYMES PROEMPRESA S.A.			PE		
+	C7	EDPYME RAIZ S.A.			PE		
+	C8	CREDIVISION			PE		
+	C9	EDPYME Créditos Arequipa S.A.			PE		
+	D0	EDPYME Nueva Visión S.A.			PE		
+	D1	EDPYME CRED. De ALCANCE REG.TRUJILLO SA.			PE		
+	D2	EDPYME Del fomento COMERC.Y PROD.S.A			PE		
+	D3	EDPYME Alternativa			PE		
+	D4	EDPYME Solidaridad S.A.A.			PE		
+	D5	EDPYME Efectiva S.A.			PE		
+	D6	EDPYME Créditos De Alcance REG.TACNA S.A			PE		
+	D7	EDPYME Confianza S.A.			PE		
+	D8	EDPYME MICASITA S.A			PE		

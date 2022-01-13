@@ -1,0 +1,11 @@
+﻿Code	Name	U_SYP_TIPBAS	U_SYP_TIPNOM
+Code	Name	U_SYP_TIPBAS	U_SYP_TIPNOM
+01	01	*	No Asignado
+02	02	Tipo A	Adq. Gravadas destinadas a operaciones gravadas y /o exportacion
+03	03	Tipo B	Adq. Gravadas y /o exportación y no gravadas
+04	04	Tipo C	Adq. Gravadas destinadas a operaciones no gravadas
+05	05	Tipo D	Adquisiciones no gravadas- Inafectas
+06	06	Tipo E	Ventas Exoneradas
+07	07	Tipo ISC	Impuesto Selectivo al Consumo
+08	08	Tipo N	Impuesto Otros
+09	09	Tipo P	Oper. Gravadas con el Imp. a las Ventas del Arroz Pilado
