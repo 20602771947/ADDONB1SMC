@@ -23,28 +23,18 @@ namespace ADDONB1SMC.AddonConsultaPeru
         private static void ConsultaPeruMain_ClickAfter(object sboObject, SAPbouiCOM.SBOItemEventArg pVal)
         {
             SAPbouiCOM.Form oForm = Globals.SBO_Application.Forms.Item(pVal.FormUID);
-            //Globals.SBO_Application.MessageBox("CLIC CLIC CLIC");
-
-            //oForm.Items.Item("16").Specific.Value = "ESCRIBIENDO TEXTO SDK";
-
+ 
             ADDONB1SMC.WSMC.SRVB1SMCSoapClient Servicio = new WSMC.SRVB1SMCSoapClient();
 
             WSMC.SocioDeNegocioDTO result = Servicio.GetSocioDeNegocioSunat(oForm.Items.Item("41").Specific.Value.ToString());
            
 
             oForm.Items.Item("7").Specific.Value = result.RazonSocial;
-           
-            //Globals.SBO_Application.MessageBox();
 
-
-            //;
 
         }
 
-        //public static void hola()
-        //{
-        //    Globals.SBO_Application.MessageBox("CLIC");
-        //}
+ 
 
     }
 }
