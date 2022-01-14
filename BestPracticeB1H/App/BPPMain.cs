@@ -15,6 +15,7 @@ using ADDONB1SMC.DB_Structure;
 
 
 using ADDONB1SMC.AddonFacturaElectronica;
+using ADDONB1SMC.AddonConsultaPeru;
 using ADDONB1SMC.Validations;
 
 namespace ADDONB1SMC
@@ -47,6 +48,7 @@ namespace ADDONB1SMC
             Globals.SAPVersion = Globals.oCompany.Version;
             InitialParams.Get();
             Globals.FE = "Y";
+            Globals.ConsultaPeru = "Y";
 
             
             
@@ -161,6 +163,13 @@ namespace ADDONB1SMC
                             FeMain.CrearObjetosForm(oForm);
                         }
 
+                        //SOCIOS DE NEGOCIO
+                        if (pVal.FormType == 134 && pVal.BeforeAction == true & Globals.ConsultaPeru == "Y")
+                        {
+                            SAPbouiCOM.Form oForm = Globals.SBO_Application.Forms.Item(pVal.FormUID);
+                            ConsultaPeruMain.CrearObjetosForm(oForm);
+                        }
+
                     }
                     #endregion
 
@@ -194,7 +203,7 @@ namespace ADDONB1SMC
 
                         }
 
-                       
+                     
 
 
 

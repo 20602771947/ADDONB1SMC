@@ -33,7 +33,7 @@ namespace ADDONB1SMC.AddonFacturaElectronica
             oForm.Items.Item("16").Specific.Value = "ESCRIBIENDO TEXTO SDK";
 
             Globals.SBO_Application.MessageBox(oForm.Items.Item("16").Specific.Value.ToString() + " CAPTURADO");
-            ;
+            
             
         }
 

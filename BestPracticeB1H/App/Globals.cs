@@ -68,6 +68,7 @@ namespace ADDONB1SMC
 
         public static string LogFile = null;
 
+        public static string ConsultaPeru = null; //nuevo
         public static string FE = null;
         public static string CFG = null;
         public static string BAN = null;

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="GetSocioDeNegocioSunat">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ruc" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetSocioDeNegocioSunatResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetSocioDeNegocioSunatResult" type="tns:SocioDeNegocioDTO" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="SocioDeNegocioDTO">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="Ruc" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="RazonSocial" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Estado" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Condicion" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Direccion" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Departamento" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Provincia" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Distrito" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Ubigeo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Nombres" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Dni" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ApellidoPaterno" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ApellidoMaterno" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="GetSocioDeNegocioSunatSoapIn">
+    <wsdl:part name="parameters" element="tns:GetSocioDeNegocioSunat" />
+  </wsdl:message>
+  <wsdl:message name="GetSocioDeNegocioSunatSoapOut">
+    <wsdl:part name="parameters" element="tns:GetSocioDeNegocioSunatResponse" />
+  </wsdl:message>
+  <wsdl:portType name="SRVB1SMCSoap">
+    <wsdl:operation name="GetSocioDeNegocioSunat">
+      <wsdl:input message="tns:GetSocioDeNegocioSunatSoapIn" />
+      <wsdl:output message="tns:GetSocioDeNegocioSunatSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="SRVB1SMCSoap" type="tns:SRVB1SMCSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetSocioDeNegocioSunat">
+      <soap:operation soapAction="http://tempuri.org/GetSocioDeNegocioSunat" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="SRVB1SMCSoap12" type="tns:SRVB1SMCSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetSocioDeNegocioSunat">
+      <soap12:operation soapAction="http://tempuri.org/GetSocioDeNegocioSunat" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="SRVB1SMC">
+    <wsdl:port name="SRVB1SMCSoap" binding="tns:SRVB1SMCSoap">
+      <soap:address location="http://localhost:50947/SRVB1SMC.asmx" />
+    </wsdl:port>
+    <wsdl:port name="SRVB1SMCSoap12" binding="tns:SRVB1SMCSoap12">
+      <soap12:address location="http://localhost:50947/SRVB1SMC.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

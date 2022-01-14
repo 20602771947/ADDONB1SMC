@@ -118,16 +118,24 @@
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="System.Deployment" />
     <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AddonConsultaPeru\ConsultaPeruMain.cs" />
     <Compile Include="AddonFacturaElectronica\FeMain.cs" />
     <Compile Include="AddonFacturaElectronica\FeStructure.cs" />
     <Compile Include="App\BPPMain.cs" />
     <Compile Include="App\Connect.cs" />
     <Compile Include="App\Globals.cs" />
     <Compile Include="App\Program.cs" />
+    <Compile Include="Connected Services\WSMC\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
     <Compile Include="DB Structure\CreateStructure.cs" />
     <Compile Include="DB Structure\Functions.cs" />
     <Compile Include="DB Structure\MDFields.cs" />
@@ -146,6 +154,11 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <None Include="app.config" />
+    <None Include="Connected Services\WSMC\ADDONB1SMC.WSMC.SocioDeNegocioDTO.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\WSMC\SRVB1SMC.wsdl" />
     <None Include="Properties\app.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -188,6 +201,27 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Splash\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Connected Services\WSMC\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\WSMC\SRVB1SMC.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\WSMC\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\WSMC\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\WSMC\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
