@@ -28,3 +28,4 @@ C:\laragon\www\ADDONB1SMC\BestPracticeB1H\obj\Debug\ADDONB1SMC.csproj.CopyComple
 C:\laragon\www\ADDONB1SMC\BestPracticeB1H\obj\Debug\SMARTCODE.exe
 C:\laragon\www\ADDONB1SMC\BestPracticeB1H\obj\Debug\SMARTCODE.pdb
 C:\laragon\www\ADDONB1SMC\BestPracticeB1H\bin\Debug\Ionic.Zip.dll
+C:\laragon\www\ADDONB1SMC\BestPracticeB1H\obj\Debug\ADDONB1SMC.csprojAssemblyReference.cache

@@ -3,10 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
+
 namespace ADDONB1SMC.AddonConsultaPeru
 {
     public class ConsultaPeruMain
     {
+       static VIEW.frmSMCSociosN vSocios = null;
+
         public static void CrearObjetosForm(SAPbouiCOM.Form oForm)
         {
             SAPbouiCOM.Item oItem;
@@ -190,25 +193,31 @@ namespace ADDONB1SMC.AddonConsultaPeru
 
         private static void ConsultaPeruMain_ClickAfter01(object sboObject, SAPbouiCOM.SBOItemEventArg pVal)
         {
+            vSocios = new VIEW.frmSMCSociosN();
 
-            SAPbouiCOM.Form oForm;
-            SAPbouiCOM.FormCreationParams creationPackage;
-            creationPackage = (SAPbouiCOM.FormCreationParams)Globals.SBO_Application.CreateObject(SAPbouiCOM.BoCreatableObjectType.cot_FormCreationParams);
-            creationPackage.UniqueID = "SMC_ListaSociosN";
-            creationPackage.FormType = "SMC_ListaSociosN";
-            creationPackage.BorderStyle = SAPbouiCOM.BoFormBorderStyle.fbs_Fixed;
-            oForm = Globals.SBO_Application.Forms.AddEx(creationPackage);
-            oForm.Title = "Lista Socios de Negocio";
-            oForm.Left = 400;
-            oForm.Top = 100;
-            oForm.ClientWidth = 270;
-            oForm.ClientHeight = 154;
-            oForm.Visible = true;
+            
+        
+
+            //SAPbouiCOM.Form oForm;
+            //SAPbouiCOM.FormCreationParams creationPackage;
+            //creationPackage = (SAPbouiCOM.FormCreationParams)Globals.SBO_Application.CreateObject(SAPbouiCOM.BoCreatableObjectType.cot_FormCreationParams);
+            //creationPackage.UniqueID = "SMC_ListaSociosN";
+            //creationPackage.FormType = "SMC_ListaSociosN";
+            //creationPackage.BorderStyle = SAPbouiCOM.BoFormBorderStyle.fbs_Fixed;
+            //oForm = Globals.SBO_Application.Forms.AddEx(creationPackage);
+            //oForm.Title = "Lista Socios de Negocio";
+            //oForm.Left = 400;
+            //oForm.Top = 100;
+            //oForm.ClientWidth = 270;
+            //oForm.ClientHeight = 154;
+            //oForm.Visible = true;
+
 
 
         }
 
 
+      
 
 
     }
