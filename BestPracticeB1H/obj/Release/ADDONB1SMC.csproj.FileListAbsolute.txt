@@ -1,0 +1,14 @@
+C:\laragon\www\ADDONB1SMC\BestPracticeB1H\obj\Release\Interop.AccessibilityCplAdminLib.dll
+C:\laragon\www\ADDONB1SMC\BestPracticeB1H\obj\Release\Interop.SAPbobsCOM.dll
+C:\laragon\www\ADDONB1SMC\BestPracticeB1H\obj\Release\Interop.SAPbouiCOM.dll
+C:\laragon\www\ADDONB1SMC\BestPracticeB1H\obj\Release\ADDONB1SMC.csproj.ResolveComReference.cache
+C:\laragon\www\ADDONB1SMC\BestPracticeB1H\obj\Release\ADDONB1SMC.Properties.Resources.resources
+C:\laragon\www\ADDONB1SMC\BestPracticeB1H\obj\Release\ADDONB1SMC.csproj.GenerateResource.cache
+C:\laragon\www\ADDONB1SMC\BestPracticeB1H\obj\Release\ADDONB1SMC.csproj.CoreCompileInputs.cache
+C:\laragon\www\ADDONB1SMC\BestPracticeB1H\bin\Release\SMARTCODE.exe.config
+C:\laragon\www\ADDONB1SMC\BestPracticeB1H\bin\Release\SMARTCODE.exe
+C:\laragon\www\ADDONB1SMC\BestPracticeB1H\bin\Release\Ionic.Zip.dll
+C:\laragon\www\ADDONB1SMC\BestPracticeB1H\bin\Release\Newtonsoft.Json.dll
+C:\laragon\www\ADDONB1SMC\BestPracticeB1H\obj\Release\ADDONB1SMC.csproj.CopyComplete
+C:\laragon\www\ADDONB1SMC\BestPracticeB1H\obj\Release\SMARTCODE.exe
+C:\laragon\www\ADDONB1SMC\BestPracticeB1H\obj\Release\ADDONB1SMC.csprojAssemblyReference.cache

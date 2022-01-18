@@ -13,8 +13,6 @@ namespace ADDONB1SMC.AddonFacturaElectronica
         public static void CrearObjetosForm(SAPbouiCOM.Form oForm)
         {
            
-           
-
             SAPbouiCOM.Item oItem;
             oItem = oForm.Items.Add("btnFE", SAPbouiCOM.BoFormItemTypes.it_BUTTON);
             oItem.Top = oForm.Items.Item(1).Top;

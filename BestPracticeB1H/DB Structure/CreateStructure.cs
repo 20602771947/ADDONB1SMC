@@ -12,38 +12,54 @@ namespace ADDONB1SMC.DB_Structure
     {
         public static void CreateStruct()
         {
-            
-          
-                bool isHana = Globals.IsHana();
-                Globals.LogFile = "SMC_Log_" + DateTime.Now.ToString("yyyyMMddHHmmss");
 
-                
-                MDTables oMDTables = new MDTables();
-                MDFields oMDFields = new MDFields();
 
-                #region Facturacion Electronica
+            bool isHana = Globals.IsHana();
+            Globals.LogFile = "SMC_Log_" + DateTime.Now.ToString("yyyyMMddHHmmss");
 
-                oMDFields.CreateRegularField("OINV", "SMC_EstadoFE", "FE Estado CPE SUNAT", SAPbobsCOM.BoFieldTypes.db_Alpha,
-                  SAPbobsCOM.BoFldSubTypes.st_None, 20, SAPbobsCOM.BoYesNoEnum.tNO, null, null, null, null, null);
 
-                oMDFields.CreateRegularField("OINV", "SMC_SUNAT_FIRMA", "FE FIRMA CPE SUNAT", SAPbobsCOM.BoFieldTypes.db_Memo,
-                    SAPbobsCOM.BoFldSubTypes.st_None, 0, SAPbobsCOM.BoYesNoEnum.tNO, null, null, null, null, null);
+            MDTables oMDTables = new MDTables();
+            MDFields oMDFields = new MDFields();
 
-                oMDFields.CreateRegularField("OINV", "SMC_SUNAT_HASH", "FE HASH CPE SUNAT", SAPbobsCOM.BoFieldTypes.db_Memo,
-                    SAPbobsCOM.BoFldSubTypes.st_None, 0, SAPbobsCOM.BoYesNoEnum.tNO, null, null, null, null, null);
+            #region Facturacion Electronica
 
-                oMDFields.CreateRegularField("OINV", "SMC_TipoOper21", "FE TIPO OPERACION CPE SUNAT", SAPbobsCOM.BoFieldTypes.db_Alpha,
-                 SAPbobsCOM.BoFldSubTypes.st_None, 2, SAPbobsCOM.BoYesNoEnum.tNO, null, null, new string[] { "01", "02","03","04","05" },
-                 new string[] { "Venta Interna", "Exportacion", "No Domiciliado", "Anticipo - Venta Interna", "Venta Itinerante" }, "01");
+            oMDFields.CreateRegularField("OINV", "SMC_EstadoFE", "FE Estado CPE SUNAT", SAPbobsCOM.BoFieldTypes.db_Alpha,
+              SAPbobsCOM.BoFldSubTypes.st_None, 20, SAPbobsCOM.BoYesNoEnum.tNO, null, null, null, null, null);
 
-                #endregion                
-            
-                               
-               
-          
-            
-            
-            
+            oMDFields.CreateRegularField("OINV", "SMC_SUNAT_FIRMA", "FE FIRMA CPE SUNAT", SAPbobsCOM.BoFieldTypes.db_Memo,
+                SAPbobsCOM.BoFldSubTypes.st_None, 0, SAPbobsCOM.BoYesNoEnum.tNO, null, null, null, null, null);
+
+            oMDFields.CreateRegularField("OINV", "SMC_SUNAT_HASH", "FE HASH CPE SUNAT", SAPbobsCOM.BoFieldTypes.db_Memo,
+                SAPbobsCOM.BoFldSubTypes.st_None, 0, SAPbobsCOM.BoYesNoEnum.tNO, null, null, null, null, null);
+
+            oMDFields.CreateRegularField("OINV", "SMC_TipoOper21", "FE TIPO OPERACION CPE SUNAT", SAPbobsCOM.BoFieldTypes.db_Alpha,
+             SAPbobsCOM.BoFldSubTypes.st_None, 2, SAPbobsCOM.BoYesNoEnum.tNO, null, null, new string[] { "01", "02", "03", "04", "05" },
+             new string[] { "Venta Interna", "Exportacion", "No Domiciliado", "Anticipo - Venta Interna", "Venta Itinerante" }, "01");
+
+            #endregion
+
+
+
+
+            #region Consulta Peru
+
+                oMDFields.CreateRegularField("OCRD", "SMC_Estado", "Estado Contribuyente", SAPbobsCOM.BoFieldTypes.db_Alpha,
+                    SAPbobsCOM.BoFldSubTypes.st_None, 10, SAPbobsCOM.BoYesNoEnum.tNO, null, null, null, null, null);
+
+                oMDFields.CreateRegularField("OCRD", "SMC_Condicion", "Condicion", SAPbobsCOM.BoFieldTypes.db_Alpha,
+                    SAPbobsCOM.BoFldSubTypes.st_None, 10, SAPbobsCOM.BoYesNoEnum.tNO, null, null, null, null, null);
+
+                oMDFields.CreateRegularField("OCRD", "SMC_Ubigeo", "Ubigeo", SAPbobsCOM.BoFieldTypes.db_Alpha,
+                    SAPbobsCOM.BoFldSubTypes.st_None, 10, SAPbobsCOM.BoYesNoEnum.tNO, null, null, null, null, null);
+
+            #endregion
+
+
+
+
+
+
+
         }
     }
 }

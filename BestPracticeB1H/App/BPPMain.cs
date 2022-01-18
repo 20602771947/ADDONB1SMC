@@ -168,10 +168,29 @@ namespace ADDONB1SMC
                         {
                             SAPbouiCOM.Form oForm = Globals.SBO_Application.Forms.Item(pVal.FormUID);
                             ConsultaPeruMain.CrearObjetosForm(oForm);
+
+
                         }
 
                     }
                     #endregion
+
+
+                    #region //FormEdit
+                    //if (pVal.EventType == SAPbouiCOM.BoEventTypes.et_VALIDATE || pVal.EventType == SAPbouiCOM.BoEventTypes.et_KEY_DOWN || pVal.EventType == SAPbouiCOM.BoEventTypes.et_FORM_LOAD)
+                    //{
+                    //    if (pVal.FormType == 134 && pVal.BeforeAction == true & Globals.ConsultaPeru == "Y")
+                    //    {
+                    //        SAPbouiCOM.Form oForm = Globals.SBO_Application.Forms.ActiveForm;
+                    //        if (oForm.Mode == SAPbouiCOM.BoFormMode.fm_FIND_MODE)
+                    //        {
+                    //            ((SAPbouiCOM.Button)Globals.SBO_Application.Forms.GetForm("134", pVal.FormTypeCount).Items.Item("btnCP").Specific).Item.Enabled = false;
+                    //        }
+                    //    }
+
+                    //}
+                    #endregion
+
 
                     #region //Combo Select
                     if (pVal.EventType == SAPbouiCOM.BoEventTypes.et_COMBO_SELECT & pVal.Action_Success == true)
@@ -252,7 +271,7 @@ namespace ADDONB1SMC
                
                 if (BusinessObjectInfo.EventType == SAPbouiCOM.BoEventTypes.et_FORM_DATA_UPDATE & BusinessObjectInfo.BeforeAction == true)
                 {
-                  
+                   
                 }
 
                 if (BusinessObjectInfo.EventType == SAPbouiCOM.BoEventTypes.et_FORM_DATA_LOAD & BusinessObjectInfo.ActionSuccess == true)
