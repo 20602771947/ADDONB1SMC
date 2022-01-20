@@ -15,6 +15,7 @@ namespace ADDONB1SMC.NewItems
             oMenus = Globals.SBO_Application.Menus;
             SAPbouiCOM.MenuCreationParams oCreationPackage = default(SAPbouiCOM.MenuCreationParams);
             oCreationPackage = Globals.SBO_Application.CreateObject(SAPbouiCOM.BoCreatableObjectType.cot_MenuCreationParams);
+            
 
             try
             {
@@ -42,18 +43,20 @@ namespace ADDONB1SMC.NewItems
 
                 #region//SubMenus (Aquí se agregan los submenus)
 
-                oMenuItem = Globals.SBO_Application.Menus.Item("AddonSMC");
-                oMenus = oMenuItem.SubMenus;
+                
 
 
                 if (Globals.FE == "Y")
                 {
+                    oMenuItem = Globals.SBO_Application.Menus.Item("AddonSMC");
+                    oMenus = oMenuItem.SubMenus;
+
                     oCreationPackage.Type = SAPbouiCOM.BoMenuType.mt_POPUP;
                     oCreationPackage.UniqueID = "SM_ERP_FE";
                     oCreationPackage.String = "CPE Facturación Electrónica";
                     oMenus.AddEx(oCreationPackage);
-                }
 
+                }
 
                 #endregion
 
@@ -74,8 +77,44 @@ namespace ADDONB1SMC.NewItems
                     oCreationPackage.String = "Envio Masivo de CPE";
                     oMenus.AddEx(oCreationPackage);
                 }
+                #endregion
+
+
+
+                if (Globals.ConsultaPeru == "Y")
+                {
+                    oMenuItem = Globals.SBO_Application.Menus.Item("AddonSMC");
+                    oMenus = oMenuItem.SubMenus;
+
+                    oCreationPackage.Type = SAPbouiCOM.BoMenuType.mt_POPUP;
+                    oCreationPackage.UniqueID = "SM_ERP_CP";
+                    oCreationPackage.String = "Consulta Peru";
+                    oMenus.AddEx(oCreationPackage);
+
+                }
+
+
+
+
+                #region Menu ConsultaPeru
+                if (Globals.ConsultaPeru == "Y")
+                {
+                  
+                    oMenuItem = Globals.SBO_Application.Menus.Item("SM_ERP_CP");
+                    oMenus = oMenuItem.SubMenus;
+
+                    oCreationPackage.Type = SAPbouiCOM.BoMenuType.mt_STRING;
+                    oCreationPackage.UniqueID = "SM_ERP_CP00";
+                    oCreationPackage.String = "Consulta Masiva";
+                    oMenus.AddEx(oCreationPackage);
+
+
+
+                }
+                #endregion
+
             }
-            #endregion
+
 
 
             catch (Exception ex)
@@ -84,6 +123,11 @@ namespace ADDONB1SMC.NewItems
             }
         }
 
-      
+        private static void BtnMasivo_ClickAfter(object sboObject, SAPbouiCOM.SBOItemEventArg pVal)
+        {
+
+            Globals.SBO_Application.MessageBox("hola");
+
+        }
     }
 }

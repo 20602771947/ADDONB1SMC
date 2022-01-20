@@ -168,8 +168,6 @@ namespace ADDONB1SMC
                         {
                             SAPbouiCOM.Form oForm = Globals.SBO_Application.Forms.Item(pVal.FormUID);
                             ConsultaPeruMain.CrearObjetosForm(oForm);
-
-
                         }
 
                     }
@@ -222,9 +220,8 @@ namespace ADDONB1SMC
 
                         }
 
-                     
 
-
+                    
 
 
                     }
@@ -315,9 +312,13 @@ namespace ADDONB1SMC
         {
             BubbleEvent = true;
             SAPbouiCOM.MenuItem menu = Globals.SBO_Application.Menus.Item("47616");
-           
+
+            if (pVal.MenuUID == "SM_ERP_CP00" && pVal.BeforeAction)
+            {
+                var vSocios = new AddonConsultaPeru.VIEW.frmSMCSociosN();
+            }
             
-           
+
         }
 
       
