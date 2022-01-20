@@ -53,11 +53,12 @@ namespace ADDONB1SMC.AddonConsultaPeru.VIEW
             {
                 oParams.FormType = formType;
             }
+
+           
             oForm = Globals.SBO_Application.Forms.AddEx(oParams);
             oForm.Left = (Globals.SBO_Application.Desktop.Width - oForm.Width) / 2;
             oForm.Top = (Globals.SBO_Application.Desktop.Height - oForm.Height) / 2;
             oForm.Visible = true;
-           
         }
 
         private void InitForm()

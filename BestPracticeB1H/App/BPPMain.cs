@@ -312,12 +312,10 @@ namespace ADDONB1SMC
         {
             BubbleEvent = true;
             SAPbouiCOM.MenuItem menu = Globals.SBO_Application.Menus.Item("47616");
-
             if (pVal.MenuUID == "SM_ERP_CP00" && pVal.BeforeAction)
             {
                 var vSocios = new AddonConsultaPeru.VIEW.frmSMCSociosN();
             }
-            
 
         }
 

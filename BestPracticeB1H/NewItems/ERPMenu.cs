@@ -45,6 +45,13 @@ namespace ADDONB1SMC.NewItems
 
                 
 
+                if (Globals.SuperUser)
+                {
+                    oCreationPackage.Type = SAPbouiCOM.BoMenuType.mt_POPUP;
+                    oCreationPackage.UniqueID = "SM_ERP_ADMIN";
+                    oCreationPackage.String = "Gestion";
+                    oMenus.AddEx(oCreationPackage);
+                }
 
                 if (Globals.FE == "Y")
                 {
