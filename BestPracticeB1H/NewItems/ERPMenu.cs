@@ -47,10 +47,22 @@ namespace ADDONB1SMC.NewItems
 
                 if (Globals.SuperUser)
                 {
+                    oMenuItem = Globals.SBO_Application.Menus.Item("AddonSMC");
+                    oMenus = oMenuItem.SubMenus;
+
                     oCreationPackage.Type = SAPbouiCOM.BoMenuType.mt_POPUP;
                     oCreationPackage.UniqueID = "SM_ERP_ADMIN";
                     oCreationPackage.String = "Gestion";
                     oMenus.AddEx(oCreationPackage);
+
+                    oMenuItem = Globals.SBO_Application.Menus.Item("SM_ERP_ADMIN");
+                    oMenus = oMenuItem.SubMenus;
+
+                    oCreationPackage.Type = SAPbouiCOM.BoMenuType.mt_STRING;
+                    oCreationPackage.UniqueID = "SM_ERP_ADMIN01";
+                    oCreationPackage.String = "Administracion";
+                    oMenus.AddEx(oCreationPackage);
+
                 }
 
                 if (Globals.FE == "Y")

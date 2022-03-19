@@ -317,9 +317,15 @@ namespace ADDONB1SMC
                 var vSocios = new AddonConsultaPeru.VIEW.frmSMCSociosN();
             }
 
+            if (pVal.MenuUID == "SM_ERP_ADMIN01" && pVal.BeforeAction)
+            {
+                new Admin.VIEW.frmControlAdmin();
+            }
+
+
         }
 
-      
-       
+
+
     }
 }

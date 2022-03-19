@@ -132,6 +132,7 @@
     <Compile Include="AddonConsultaPeru\VIEW\frmSMCSociosN.cs" />
     <Compile Include="AddonFacturaElectronica\FeMain.cs" />
     <Compile Include="AddonFacturaElectronica\FeStructure.cs" />
+    <Compile Include="Admin\VIEW\frmControlAdmin.cs" />
     <Compile Include="App\BPPMain.cs" />
     <Compile Include="App\Connect.cs" />
     <Compile Include="App\Globals.cs" />
