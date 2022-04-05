@@ -163,6 +163,9 @@
     <None Include="Connected Services\WSMC\ADDONB1SMC.WSMC.SocioDeNegocioDTO.datasource">
       <DependentUpon>Reference.svcmap</DependentUpon>
     </None>
+    <None Include="Connected Services\WSMC\ADDONB1SMC.WSMC.TipoCambioDTO.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
     <None Include="Connected Services\WSMC\SRVB1SMC.wsdl" />
     <None Include="packages.config" />
     <None Include="Properties\app.config" />

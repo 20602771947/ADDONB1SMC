@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-
+using SAPbouiCOM;
 
 namespace ADDONB1SMC.AddonConsultaPeru
 {
@@ -20,19 +20,45 @@ namespace ADDONB1SMC.AddonConsultaPeru
             (oItem.Specific as SAPbouiCOM.Button).Caption = "Buscar Sunat";
             (oItem.Specific as SAPbouiCOM.Button).ClickAfter += ConsultaPeruMain_ClickAfter;
 
-
-            SAPbouiCOM.Item oItem1;
-            oItem1 = oForm.Items.Add("btnCP01", SAPbouiCOM.BoFormItemTypes.it_BUTTON);
-            //oItem1.Top = oForm.Items.Item(40).Top;
-            oItem1.Left = oForm.Items.Item(41).Left + 160;
-            oItem1.Width = 70;
-            (oItem1.Specific as SAPbouiCOM.Button).Caption = "Buscar Masivo";
-            (oItem1.Specific as SAPbouiCOM.Button).ClickAfter += ConsultaPeruMain_ClickAfter01;
+            //SAPbouiCOM.Item oItem1;
+            //oItem1 = oForm.Items.Add("btnCP01", SAPbouiCOM.BoFormItemTypes.it_BUTTON);
+            ////oItem1.Top = oForm.Items.Item(40).Top;
+            //oItem1.Left = oForm.Items.Item(41).Left + 160;
+            //oItem1.Width = 70;
+            //(oItem1.Specific as SAPbouiCOM.Button).Caption = "Buscar Masivo";
+            //(oItem1.Specific as SAPbouiCOM.Button).ClickAfter += ConsultaPeruMain_ClickAfter01;
             
         }
 
+        public static void CrearBotonTipoCambio(SAPbouiCOM.Form oForm)
+        {
+            SAPbouiCOM.Item oItem;
+            oItem = oForm.Items.Add("btnCP01", SAPbouiCOM.BoFormItemTypes.it_BUTTON);
+            oItem.Top = oForm.Items.Item(16).Top;
+            oItem.Left = oForm.Items.Item(2).Left + 130;
+            oItem.Width = 70;
+            (oItem.Specific as SAPbouiCOM.Button).Caption = "Consulta Sunat";
+            (oItem.Specific as SAPbouiCOM.Button).ClickAfter += ConsultaPeruMain_ClickAfter1;
 
+        }
 
+        private static void ConsultaPeruMain_ClickAfter1(object sboObject, SBOItemEventArg pVal)
+        {
+            WSMC.SRVB1SMCSoapClient Servicio = new WSMC.SRVB1SMCSoapClient();
+            WSMC.TipoCambioDTO result = Servicio.GetTipoCambioSunat();
+
+            SAPbouiCOM.Form oForm = Globals.SBO_Application.Forms.Item(pVal.FormUID); 
+            SAPbouiCOM.Matrix grid = (SAPbouiCOM.Matrix)oForm.Items.Item("4").Specific;
+
+            DateTime fechaActual = DateTime.Today;
+            var dia = fechaActual.Day;
+            //var fila = grid.RowCount;
+
+            var tipocambio = (SAPbouiCOM.EditText)grid.Columns.Item("V_1").Cells.Item(dia).Specific;
+            tipocambio.String = result.venta.ToString();
+            //grid.Rows
+
+        }
 
         private static void ConsultaPeruMain_ClickAfter(object sboObject, SAPbouiCOM.SBOItemEventArg pVal)
         {
@@ -71,7 +97,9 @@ namespace ADDONB1SMC.AddonConsultaPeru
             folderAddress.Select();
 
             SAPbouiCOM.Matrix b1Matrix1 = (SAPbouiCOM.Matrix)oForm.Items.Item("178").Specific;
+
             var editAddressName = (SAPbouiCOM.EditText)b1Matrix1.Columns.Item("1").Cells.Item(1).Specific;
+
             var editAdress = (SAPbouiCOM.EditText)b1Matrix1.Columns.Item("2").Cells.Item(1).Specific;
             var departamento = (SAPbouiCOM.ComboBox)b1Matrix1.Columns.Item("7").Cells.Item(1).Specific;
             var provincia = (SAPbouiCOM.EditText)b1Matrix1.Columns.Item("6").Cells.Item(1).Specific;
@@ -191,30 +219,30 @@ namespace ADDONB1SMC.AddonConsultaPeru
 
 
 
-        private static void ConsultaPeruMain_ClickAfter01(object sboObject, SAPbouiCOM.SBOItemEventArg pVal)
-        {
-            vSocios = new VIEW.frmSMCSociosN();
+        //private static void ConsultaPeruMain_ClickAfter01(object sboObject, SAPbouiCOM.SBOItemEventArg pVal)
+        //{
+        //    vSocios = new VIEW.frmSMCSociosN();
 
             
         
 
-            //SAPbouiCOM.Form oForm;
-            //SAPbouiCOM.FormCreationParams creationPackage;
-            //creationPackage = (SAPbouiCOM.FormCreationParams)Globals.SBO_Application.CreateObject(SAPbouiCOM.BoCreatableObjectType.cot_FormCreationParams);
-            //creationPackage.UniqueID = "SMC_ListaSociosN";
-            //creationPackage.FormType = "SMC_ListaSociosN";
-            //creationPackage.BorderStyle = SAPbouiCOM.BoFormBorderStyle.fbs_Fixed;
-            //oForm = Globals.SBO_Application.Forms.AddEx(creationPackage);
-            //oForm.Title = "Lista Socios de Negocio";
-            //oForm.Left = 400;
-            //oForm.Top = 100;
-            //oForm.ClientWidth = 270;
-            //oForm.ClientHeight = 154;
-            //oForm.Visible = true;
+            ////SAPbouiCOM.Form oForm;
+            ////SAPbouiCOM.FormCreationParams creationPackage;
+            ////creationPackage = (SAPbouiCOM.FormCreationParams)Globals.SBO_Application.CreateObject(SAPbouiCOM.BoCreatableObjectType.cot_FormCreationParams);
+            ////creationPackage.UniqueID = "SMC_ListaSociosN";
+            ////creationPackage.FormType = "SMC_ListaSociosN";
+            ////creationPackage.BorderStyle = SAPbouiCOM.BoFormBorderStyle.fbs_Fixed;
+            ////oForm = Globals.SBO_Application.Forms.AddEx(creationPackage);
+            ////oForm.Title = "Lista Socios de Negocio";
+            ////oForm.Left = 400;
+            ////oForm.Top = 100;
+            ////oForm.ClientWidth = 270;
+            ////oForm.ClientHeight = 154;
+            ////oForm.Visible = true;
 
 
 
-        }
+        //}
 
 
       

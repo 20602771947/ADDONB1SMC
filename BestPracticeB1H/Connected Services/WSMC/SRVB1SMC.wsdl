@@ -33,6 +33,22 @@
           <s:element minOccurs="0" maxOccurs="1" name="ApellidoMaterno" type="s:string" />
         </s:sequence>
       </s:complexType>
+      <s:element name="GetTipoCambioSunat">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetTipoCambioSunatResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetTipoCambioSunatResult" type="tns:TipoCambioDTO" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="TipoCambioDTO">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="compra" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="venta" type="s:double" />
+        </s:sequence>
+      </s:complexType>
     </s:schema>
   </wsdl:types>
   <wsdl:message name="GetSocioDeNegocioSunatSoapIn">
@@ -41,10 +57,20 @@
   <wsdl:message name="GetSocioDeNegocioSunatSoapOut">
     <wsdl:part name="parameters" element="tns:GetSocioDeNegocioSunatResponse" />
   </wsdl:message>
+  <wsdl:message name="GetTipoCambioSunatSoapIn">
+    <wsdl:part name="parameters" element="tns:GetTipoCambioSunat" />
+  </wsdl:message>
+  <wsdl:message name="GetTipoCambioSunatSoapOut">
+    <wsdl:part name="parameters" element="tns:GetTipoCambioSunatResponse" />
+  </wsdl:message>
   <wsdl:portType name="SRVB1SMCSoap">
     <wsdl:operation name="GetSocioDeNegocioSunat">
       <wsdl:input message="tns:GetSocioDeNegocioSunatSoapIn" />
       <wsdl:output message="tns:GetSocioDeNegocioSunatSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetTipoCambioSunat">
+      <wsdl:input message="tns:GetTipoCambioSunatSoapIn" />
+      <wsdl:output message="tns:GetTipoCambioSunatSoapOut" />
     </wsdl:operation>
   </wsdl:portType>
   <wsdl:binding name="SRVB1SMCSoap" type="tns:SRVB1SMCSoap">
@@ -58,11 +84,29 @@
         <soap:body use="literal" />
       </wsdl:output>
     </wsdl:operation>
+    <wsdl:operation name="GetTipoCambioSunat">
+      <soap:operation soapAction="http://tempuri.org/GetTipoCambioSunat" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
   </wsdl:binding>
   <wsdl:binding name="SRVB1SMCSoap12" type="tns:SRVB1SMCSoap">
     <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
     <wsdl:operation name="GetSocioDeNegocioSunat">
       <soap12:operation soapAction="http://tempuri.org/GetSocioDeNegocioSunat" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetTipoCambioSunat">
+      <soap12:operation soapAction="http://tempuri.org/GetTipoCambioSunat" style="document" />
       <wsdl:input>
         <soap12:body use="literal" />
       </wsdl:input>

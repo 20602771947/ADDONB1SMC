@@ -250,6 +250,65 @@ namespace ADDONB1SMC.WSMC {
         }
     }
     
+    [System.Diagnostics.DebuggerStepThroughAttribute()]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Runtime.Serialization", "4.0.0.0")]
+    [System.Runtime.Serialization.DataContractAttribute(Name="TipoCambioDTO", Namespace="http://tempuri.org/")]
+    [System.SerializableAttribute()]
+    public partial class TipoCambioDTO : object, System.Runtime.Serialization.IExtensibleDataObject, System.ComponentModel.INotifyPropertyChanged {
+        
+        [System.NonSerializedAttribute()]
+        private System.Runtime.Serialization.ExtensionDataObject extensionDataField;
+        
+        private double compraField;
+        
+        private double ventaField;
+        
+        [global::System.ComponentModel.BrowsableAttribute(false)]
+        public System.Runtime.Serialization.ExtensionDataObject ExtensionData {
+            get {
+                return this.extensionDataField;
+            }
+            set {
+                this.extensionDataField = value;
+            }
+        }
+        
+        [System.Runtime.Serialization.DataMemberAttribute(IsRequired=true)]
+        public double compra {
+            get {
+                return this.compraField;
+            }
+            set {
+                if ((this.compraField.Equals(value) != true)) {
+                    this.compraField = value;
+                    this.RaisePropertyChanged("compra");
+                }
+            }
+        }
+        
+        [System.Runtime.Serialization.DataMemberAttribute(IsRequired=true)]
+        public double venta {
+            get {
+                return this.ventaField;
+            }
+            set {
+                if ((this.ventaField.Equals(value) != true)) {
+                    this.ventaField = value;
+                    this.RaisePropertyChanged("venta");
+                }
+            }
+        }
+        
+        public event System.ComponentModel.PropertyChangedEventHandler PropertyChanged;
+        
+        protected void RaisePropertyChanged(string propertyName) {
+            System.ComponentModel.PropertyChangedEventHandler propertyChanged = this.PropertyChanged;
+            if ((propertyChanged != null)) {
+                propertyChanged(this, new System.ComponentModel.PropertyChangedEventArgs(propertyName));
+            }
+        }
+    }
+    
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
     [System.ServiceModel.ServiceContractAttribute(ConfigurationName="WSMC.SRVB1SMCSoap")]
     public interface SRVB1SMCSoap {
@@ -257,6 +316,10 @@ namespace ADDONB1SMC.WSMC {
         // CODEGEN: Se está generando un contrato de mensaje, ya que el nombre de elemento ruc del espacio de nombres http://tempuri.org/ no está marcado para aceptar valores nil.
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/GetSocioDeNegocioSunat", ReplyAction="*")]
         ADDONB1SMC.WSMC.GetSocioDeNegocioSunatResponse GetSocioDeNegocioSunat(ADDONB1SMC.WSMC.GetSocioDeNegocioSunatRequest request);
+        
+        // CODEGEN: Se está generando un contrato de mensaje, ya que el nombre de elemento GetTipoCambioSunatResult del espacio de nombres http://tempuri.org/ no está marcado para aceptar valores nil.
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/GetTipoCambioSunat", ReplyAction="*")]
+        ADDONB1SMC.WSMC.GetTipoCambioSunatResponse GetTipoCambioSunat(ADDONB1SMC.WSMC.GetTipoCambioSunatRequest request);
     }
     
     [System.Diagnostics.DebuggerStepThroughAttribute()]
@@ -327,6 +390,67 @@ namespace ADDONB1SMC.WSMC {
         }
     }
     
+    [System.Diagnostics.DebuggerStepThroughAttribute()]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
+    [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
+    [System.ServiceModel.MessageContractAttribute(IsWrapped=false)]
+    public partial class GetTipoCambioSunatRequest {
+        
+        [System.ServiceModel.MessageBodyMemberAttribute(Name="GetTipoCambioSunat", Namespace="http://tempuri.org/", Order=0)]
+        public ADDONB1SMC.WSMC.GetTipoCambioSunatRequestBody Body;
+        
+        public GetTipoCambioSunatRequest() {
+        }
+        
+        public GetTipoCambioSunatRequest(ADDONB1SMC.WSMC.GetTipoCambioSunatRequestBody Body) {
+            this.Body = Body;
+        }
+    }
+    
+    [System.Diagnostics.DebuggerStepThroughAttribute()]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
+    [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
+    [System.Runtime.Serialization.DataContractAttribute()]
+    public partial class GetTipoCambioSunatRequestBody {
+        
+        public GetTipoCambioSunatRequestBody() {
+        }
+    }
+    
+    [System.Diagnostics.DebuggerStepThroughAttribute()]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
+    [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
+    [System.ServiceModel.MessageContractAttribute(IsWrapped=false)]
+    public partial class GetTipoCambioSunatResponse {
+        
+        [System.ServiceModel.MessageBodyMemberAttribute(Name="GetTipoCambioSunatResponse", Namespace="http://tempuri.org/", Order=0)]
+        public ADDONB1SMC.WSMC.GetTipoCambioSunatResponseBody Body;
+        
+        public GetTipoCambioSunatResponse() {
+        }
+        
+        public GetTipoCambioSunatResponse(ADDONB1SMC.WSMC.GetTipoCambioSunatResponseBody Body) {
+            this.Body = Body;
+        }
+    }
+    
+    [System.Diagnostics.DebuggerStepThroughAttribute()]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
+    [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
+    [System.Runtime.Serialization.DataContractAttribute(Namespace="http://tempuri.org/")]
+    public partial class GetTipoCambioSunatResponseBody {
+        
+        [System.Runtime.Serialization.DataMemberAttribute(EmitDefaultValue=false, Order=0)]
+        public ADDONB1SMC.WSMC.TipoCambioDTO GetTipoCambioSunatResult;
+        
+        public GetTipoCambioSunatResponseBody() {
+        }
+        
+        public GetTipoCambioSunatResponseBody(ADDONB1SMC.WSMC.TipoCambioDTO GetTipoCambioSunatResult) {
+            this.GetTipoCambioSunatResult = GetTipoCambioSunatResult;
+        }
+    }
+    
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
     public interface SRVB1SMCSoapChannel : ADDONB1SMC.WSMC.SRVB1SMCSoap, System.ServiceModel.IClientChannel {
     }
@@ -365,6 +489,18 @@ namespace ADDONB1SMC.WSMC {
             inValue.Body.ruc = ruc;
             ADDONB1SMC.WSMC.GetSocioDeNegocioSunatResponse retVal = ((ADDONB1SMC.WSMC.SRVB1SMCSoap)(this)).GetSocioDeNegocioSunat(inValue);
             return retVal.Body.GetSocioDeNegocioSunatResult;
+        }
+        
+        [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
+        ADDONB1SMC.WSMC.GetTipoCambioSunatResponse ADDONB1SMC.WSMC.SRVB1SMCSoap.GetTipoCambioSunat(ADDONB1SMC.WSMC.GetTipoCambioSunatRequest request) {
+            return base.Channel.GetTipoCambioSunat(request);
+        }
+        
+        public ADDONB1SMC.WSMC.TipoCambioDTO GetTipoCambioSunat() {
+            ADDONB1SMC.WSMC.GetTipoCambioSunatRequest inValue = new ADDONB1SMC.WSMC.GetTipoCambioSunatRequest();
+            inValue.Body = new ADDONB1SMC.WSMC.GetTipoCambioSunatRequestBody();
+            ADDONB1SMC.WSMC.GetTipoCambioSunatResponse retVal = ((ADDONB1SMC.WSMC.SRVB1SMCSoap)(this)).GetTipoCambioSunat(inValue);
+            return retVal.Body.GetTipoCambioSunatResult;
         }
     }
 }

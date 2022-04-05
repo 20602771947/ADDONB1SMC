@@ -136,10 +136,6 @@ namespace ADDONB1SMC
 
                     #region //FormDraw
 
-
-
-
-
                     if (pVal.EventType == SAPbouiCOM.BoEventTypes.et_FORM_DRAW && CheckUDFWindow)
                     {
                         if (MandatoryUDFMainWindow.Contains(pVal.FormType) & pVal.Action_Success == true)
@@ -168,6 +164,13 @@ namespace ADDONB1SMC
                         {
                             SAPbouiCOM.Form oForm = Globals.SBO_Application.Forms.Item(pVal.FormUID);
                             ConsultaPeruMain.CrearObjetosForm(oForm);
+                        }
+
+                        //TIPO DE CAMBIO SUNAT 
+                        if (pVal.FormType == 866 && pVal.BeforeAction == true & Globals.ConsultaPeru == "Y")
+                        {
+                            SAPbouiCOM.Form oForm = Globals.SBO_Application.Forms.Item(pVal.FormUID);
+                            ConsultaPeruMain.CrearBotonTipoCambio(oForm);
                         }
 
                     }

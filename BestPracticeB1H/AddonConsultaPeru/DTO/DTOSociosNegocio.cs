@@ -7,7 +7,7 @@ namespace ADDONB1SMC.AddonConsultaPeru.DTO
 {
     public class DTOSociosNegocio
     {
-
+        public string CardCode { get; set; }
         public string Codigo { get; set; }
         public string RazonSocial { get; set; }
         public string Tipo { get; set; }

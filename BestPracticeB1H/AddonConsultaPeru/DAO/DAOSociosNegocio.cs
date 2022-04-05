@@ -29,6 +29,7 @@ namespace ADDONB1SMC.AddonConsultaPeru.DAO
                     while (dr.Read())
                     {
                         DTOSociosNegocio oDTOSociosNegocio = new DTOSociosNegocio();
+                        oDTOSociosNegocio.CardCode = dr["CardCode"].ToString();
                         oDTOSociosNegocio.Codigo = dr["LicTradNum"].ToString();
                         oDTOSociosNegocio.RazonSocial = dr["CardName"].ToString();
                         oDTOSociosNegocio.Tipo = dr["U_EXX_TIPODOCU"].ToString();
